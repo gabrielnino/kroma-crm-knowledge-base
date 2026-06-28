@@ -1,0 +1,53 @@
+﻿jun 28, 2026
+Reunión José Check web site
+Invitado cbnnoticias@gmail.com Luis (Luis Nino)
+Archivos adjuntos Reunión José Check web site
+Registros de la reunión Transcripción Notas de Gemini (Inglés) 
+
+
+
+
+Resumen
+Revisión integral sobre objetivos de modernización web y desafíos de audiencia para optimizar el alcance digital.
+
+Objetivos modernización sitio web
+Se definió la necesidad de reconstruir la plataforma para mejorar la funcionalidad, modernizar la estética e integrar herramientas multimedia. La nueva estructura incluirá aproximadamente 7 secciones temáticas clave.
+
+Desafíos audiencia y competencia
+La pérdida de tráfico generada por restricciones externas impacta el alcance actual. Se requiere priorizar la optimización para buscadores dado que la navegación directa es limitada.
+
+Estrategia editorial y financiera
+Se decidió enfocar el desarrollo futuro en la rentabilidad mediante una propuesta integral de marketing y contenido. La integridad periodística permanece como un valor central innegociable.
+
+
+
+
+Próximos pasos
+* [Luis (Luis Nino)] Analizar datos: Evaluar la información técnica y comercial proporcionada sobre el portal de noticias para estructurar una estrategia efectiva. Identificar los requerimientos de diseño y optimización necesarios para mejorar el alcance del sitio.
+* [Luis (Luis Nino)] Enviar propuesta: Elaborar una oferta técnica para el rediseño y la modernización de la plataforma de noticias. Enviar el documento con la propuesta estratégica al cliente para su revisión.
+* [Luis] Generar propuesta: Crear un esquema comercial basado en las necesidades de contenido y marketing. Presentar el documento a José Augusto para su evaluación.
+* [Luis] Analizar información: Examinar los datos disponibles para identificar oportunidades de monetización. Determinar la estrategia más conveniente para ambas partes.
+
+
+
+
+Detalles
+* Configuración técnica de la reunión: La reunión comenzó con dificultades técnicas para activar la cámara y compartir pantalla, las cuales fueron resueltas mediante el cambio de dispositivos de conexión, permitiendo a CBNnoticias compartir su pantalla de forma efectiva (00:00:03).
+* Objetivos para la reconstrucción del sitio web: CBNnoticias expresó la necesidad de reconstruir su página web de noticias para que sea más práctica, profesional y moderna, facilitando la conexión con redes sociales, YouTube y la integración de audio y video para programas de actualidad (00:06:20).
+* Secciones requeridas para la plataforma: CBNnoticias detalló que la nueva estructura del sitio debe incluir seis o siete secciones fundamentales: noticias locales, noticias nacionales de Canadá, noticias internacionales, inmigración, judicial y deportes (00:08:27).
+* Impacto del conflicto con Meta en la audiencia: CBNnoticias explicó que la pérdida significativa de tráfico y visualizaciones, que anteriormente alcanzaban las 10,000 a 15,000 vistas en pocas horas, se debe al conflicto legal entre el gobierno federal de Canadá y Meta, lo cual impide la publicación directa de contenido periodístico en redes sociales como Facebook e Instagram (00:10:29).
+* Frustraciones con desarrolladores anteriores: CBNnoticias compartió experiencias negativas con desarrolladores previos, señalando que estos entregaron plantillas de WordPress básicas y no funcionales que dificultaban la publicación de contenido multimedia y la gestión de un historial de noticias organizado para la búsqueda en Google (00:14:30).
+* Comportamiento del usuario y optimización para motores de búsqueda: Luis (Luis Nino) argumentó que los usuarios no navegan por portales complejos, sino que prefieren utilizar Google para encontrar noticias específicas, por lo que es esencial implementar estrategias de optimización para motores de búsqueda para mejorar el alcance y la visibilidad de los contenidos (00:19:03).
+* Análisis de audiencia y competencia: Luis (Luis Nino) indicó que CBNnoticias es actualmente un medio pequeño comparado con competidores como Latin Couver, registrando cerca de 1,000 visitas mensuales, aunque el potencial de crecimiento, según el análisis, podría llegar a las 6,000 visitas al mes considerando la presencia en mercados como México, Estados Unidos y Canadá (00:26:34).
+* Situación financiera y monetización: CBNnoticias aclaró que la página ha funcionado principalmente como un servicio comunitario y no como una fuente de ingresos significativa, generando aproximadamente 2,000 dólares en el último año debido a la falta de un enfoque comercial estructurado y al impacto de la situación con Meta (00:21:39).
+* Uso de inteligencia artificial en la creación de contenido: CBNnoticias mencionó que utiliza inteligencia artificial para generar imágenes, priorizando la precisión y evitando problemas de derechos de autor, manteniendo siempre el enfoque en la credibilidad periodística y evitando que el contenido parezca inventado (00:34:40).
+* Compromiso con la integridad periodística: CBNnoticias destacó la importancia de la veracidad en su trabajo, señalando que, a pesar de recibir críticas ocasionales, siempre prefiere verificar las fuentes y mantener una conducta profesional para no perder la confianza de la audiencia (00:36:21).
+* Filosofía de liderazgo y límites personales: Luis (Luis Nino) compartió su postura sobre el voluntariado y el liderazgo, subrayando que, aunque mantiene una actitud reflexiva y humilde, tiene límites innegociables respecto a temas políticos y decisiones que afectan la calidad del servicio, evitando conflictos innecesarios (00:37:41).
+* Orígenes del proyecto Fiebre Amarilla: Luis (Luis Nino) explicó que el proyecto Fiebre Amarilla nació de una idea propia para el intercambio en eventos (inicialmente llamado Funfest) y evolucionó orgánicamente durante el mundial, convirtiéndose en una comunidad de rápido crecimiento (00:40:57).
+* Propuesta de trabajo y próximos pasos: Luis (Luis Nino) se comprometió a realizar un análisis profundo de los datos proporcionados para elaborar una propuesta integral que combine desarrollo web, marketing y estrategias de contenido, con el fin de convertir el portal en una plataforma rentable sin perder la identidad comunitaria del medio (00:27:39) (00:48:00).
+
+
+
+
+Revisa las notas de Gemini para asegurarte de que sean precisas. Obtén sugerencias y descubre cómo Gemini toma notas
+Cómo es la calidad de estas notas específicas? Responde una breve encuesta para darnos tu opinión; por ejemplo, cuán útiles te resultaron las notas.

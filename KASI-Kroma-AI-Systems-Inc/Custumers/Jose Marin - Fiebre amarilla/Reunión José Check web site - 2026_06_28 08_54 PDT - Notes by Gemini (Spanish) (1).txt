@@ -1,0 +1,639 @@
+﻿jun 28, 2026
+Reunión José Check web site - Transcripción
+00:00:03
+
+
+CBNnoticias: Hm. No sé, tengo un problema acá con esa cámara que no me deja, no me abre, no sé qué será
+Luis (Luis Nino): No hay problema, no hay problema. Hay problema.
+CBNnoticias: habla.
+Luis (Luis Nino): O si quieres también lo otro que te puedes hacer es conectarte otra vez al computador, conéctate por el celular y me me das video por el celular y hablamos por
+CBNnoticias: Mm.
+Luis (Luis Nino): acá.
+CBNnoticias: Sí, yo creo que, espérate que sí, ahí.
+CBNnoticias: Ahí.
+Luis (Luis Nino): Perfecto. Tienes que mutearte
+CBNnoticias: Okay.
+CBNnoticias: Okay,
+CBNnoticias: Ahí.
+CBNnoticias: espérate.
+CBNnoticias: Espérate. Okay. Por por ahí o qué. No,
+Luis (Luis Nino): cómo es.
+CBNnoticias: ahí me escuchas.
+Luis (Luis Nino): Sí, ahí te escucho.
+CBNnoticias: Okay. Bueno, listo. Sí, hablemos por ahí entonces. Sí. No sé.
+Luis (Luis Nino): Perfecto.
+CBNnoticias: No sé, eh, vea, Luis. Entonces, a ver, le cuento. Lo que pasa es que la página, ¿cómo le comparto aquí la página? Bueno, se la mando por acá por
+
+
+
+
+00:03:04
+
+
+Luis (Luis Nino): que compartir es el el icono que está en el centro que tiene un computadorcito, un cuadro así debajo una raya y una flecha hacia arriba. Está justo a la derecha de la cámara para compartir la
+CBNnoticias: Okay.
+Luis (Luis Nino): pantalla.
+CBNnoticias: Listo. Espérate a ver.
+Luis (Luis Nino): Ya puedo ver tu pantalla. Creo
+CBNnoticias: Entonces ahí que le qué le doy ahí.
+Luis (Luis Nino): que compartiste solo una
+CBNnoticias: Sí,
+Luis (Luis Nino): página.
+CBNnoticias: pero no es esa. Yo lo que necesito compartirles
+Luis (Luis Nino): Okay. La parte ahí cuando tú la vas a compartir aparecen tres.
+CBNnoticias: la
+Luis (Luis Nino): Aparece Chromal, Windows Antier Stream. Si compartes stream puedo ver todo lo que tú ves. Sí. Entonces, lo que puedes hacer ahorita es cerrar lo que tienes que no de pronto pues que tenga privacidad para ti. Le das compartir antier screen y abres lo que
+CBNnoticias: Okay.
+Luis (Luis Nino): necesitas.
+CBNnoticias: A ver. Pues a ver acá. A ver, a ver. A ver, hombre, por Dios, que queda tan horrible con esto, ¿eh? Espérate a ver.
+
+
+
+
+00:06:20
+
+
+CBNnoticias: Creo que ahí lo pasé.
+Luis (Luis Nino): Listo, está perfecto.
+CBNnoticias: Sí, creo que es eso.
+Luis (Luis Nino): Estudio.
+CBNnoticias: Bueno, ahí aparte de reunión voy aprendiendo.
+Luis (Luis Nino): Eso es. Todos estamos aprendiendo.
+CBNnoticias: Bueno, listo, Luis, es lo siguiente. Es que esa página la tengo hace mucho rato, hace mucho rato, pero pero realmente no he tenido las personas que me han ayudado, pues inicialmente cogieron una plantilla y la colocaron ahí y me dijeron, "Hágale, suba noticias." Pero pues realmente no. Es decir,
+Luis (Luis Nino): Ah.
+CBNnoticias: necesito reconstruir la página. Sí, que sea una página eh práctica, no complicada, que sea una página de noticias que se vea profesional, que y que esté sobre todo adaptada a lo que hoy en día hay. Sí, que esté conectada a la red, que la pueda conectar a las redes sociales. Me interesa mucho que tenga como una conexión con la parte de video, eh, con el tema de YouTube, ¿sí? que se puedan subir videos, que se puedan subir audios, que por ejemplo eh pienso hacer a través de YouTube cada 8 días hacer una media hora de de temas muy de actualidad con entrevistados y toda esa vaina y que la pueda que pueda tener conexión con la página, es decir, que interactúen eh toda la información, que la página sea lo lo básico, lo elemental, lo central y desde allí se pueda compartir en las redes sociales.
+
+
+
+
+00:08:27
+
+
+CBNnoticias: Sí. Eh, entonces eso que sean más o menos cuáles son las áreas que necesito habilitar. Uno es una página que sea local. para noticias locales. Otra que sea una página nacional y para las noticias de aquí de Canadá, otra internacional, otra inmigración, otra judicial. y otra que sea deportes. Es lo básico. Son más o menos seis,
+Luis (Luis Nino): No.
+CBNnoticias: siete secciones que necesitaría para manejar dentro de la dentro de la página. ¿Sí? Entonces es básicamente eso lo que quiero lo que quiero como como manejar, como tratar de de crear, porque la página que hay me la pu un muchacho de de Manizales perado que que me ha estado ayudando, ¿no? Pero me hizo una página y si ves la página es una chorrera de noticias en una sola. Ahí se ve todo, un reguero de noticias ahí para abajo. Sí. Entonces, yo lo que quiero es no que se ve ese reguero ahí porque porque por ejemplo si la gente quiere mirar una noticia de hace un mes o yo eh me tengo que ir meter aquí a la página, a la única página que hay y empezar a buscarla. Sí, dejarla que corra y buscarla. Sí. Entonces, la página antes tenía la facilidad que yo, por ejemplo, buscaba en Google e casos de extorsión en Surri, CBN Noticias y Pro, me mandaba a la página mía y aparecía allí todas las noticias que yo he sacado dentro de ese historial que aparece en Google.
+
+
+
+
+00:10:29
+
+
+CBNnoticias: Ahora no, ahora no lo puedo hacer porque es una sola página allí fija y la gente no puede. Yo perdí ya todo ese ese historial que tenía. Entonces, básicamente es eso, Luis. A ver si si usted me puede ayudar con eso y y ir mirando toda esa parte, porque la idea es esa, es hacerla más interactiva, eh poderla ampliar en audiencia aquí en Canadá y fuera de Canadá. Hay un problema que es que hace dos años META eh se enfrascó en un problema legal con el gobierno federal de Canadá porque Meta no reconocía o no reconoce el trabajo que nosotros hacemos aquí en Canadá en de producción de noticias. Sí. Entonces el lío terminó en que Canadá le dijo a Meta, "Okay, si ustedes no le reconocen el trabajo a los periodistas canadienses con la producción de noticias que ellos hacen y el uso que ustedes hacen de las noticias, entonces hay una demanda y eso está todavía allí en proceso." Canadá creó una ley y esa ley dice que Meta eh no puede utilizar el material periodístico nuestro. Entonces, Meta dice, "Ah, bueno, listo, yo no lo puedo utilizar, pero tampoco se los dejo publicar ni en Facebook ni en Instagram." Ese es el problema que tenemos. Yo antes antes de ese problema eh tenía muy buena audiencia desde la página porque directamente cuando yo publicaba una noticia se iba a las redes sociales.
+
+
+
+
+00:12:31
+
+
+CBNnoticias: Sí. Y yo tenía, por ejemplo, diga usted, visualizaciones más o menos de promedio de unas 10 15,000 visualizaciones en una 2 horas porque se iba directamente a Facebook. Sí. Y pues yo tengo tenía la facilidad de de hacerlo así rápido en por lo menos unos 50 60 grupos en Facebook aquí en Canadá, pero eso se fue al piso con esa pelea que hay entre el gobierno federal y Meta. Entonces, ahora ni yo ni ninguna de las medios de comunicación canadienses ni nadie puede hacer uso de ese de esa herramienta que nos permitía antes Facebook. Esto es lo que yo hago es e hago un resumen y lo subo, lo pego así como lo estoy haciendo para que la gente lo vea allí en mi perfil. Es tanto que el perfil de CBN Noticias de la página que yo tengo en Facebook, me toca volverlo a a recuperar porque está bloqueado. Sí, está bloqueado desde la época en que yo publicaba noticias, entonces no se pudo volver a utilizar. Entonces, quiero enfocarme en la página inicialmente.
+Luis (Luis Nino): ¿Me
+CBNnoticias: Sí, es lo que necesito, reconstruirla, mejorarla, hacerla más práctica y para darle un sentido mucho más moderno y más profesional. Es lo que necesito en este momento, Luis.
+Luis (Luis Nino): permites hacerte unas preguntas?
+
+
+
+
+00:14:30
+
+
+CBNnoticias: Claro,
+Luis (Luis Nino): Bueno, lo primero es cuando has trabajado con diseñadores,
+CBNnoticias: claro.
+Luis (Luis Nino): programadores, ¿qué es lo más frustrante que has afrontado?
+CBNnoticias: Pues a ver, mira, eh, realmente quienes me han ayudado había un muchacho de Cali que fue el que me estuvo ayudando, pero el muchacho lo que cuando yo le dije, "Mira, lo que pes que necesito que me ayudes a armar una paginita que sea donde yo pueda subir noticias y todo el asunto." Me dijo, "Sí, claro." Y él en rapidito me mandó, me dijo, "Mira, aquí está. Utilicó una plantilla gratis de WordPress y me dijo, "Hágale, suba noticias ahí." Entonces yo empecé, él me indicó y me mandaba al al panel de y me dijo, "Métase por aquí, dele abra siempre con el con el usuario, el password y empieza a subir noticias." Yo empecé a hacerlo así, pero llegó un momento en que, por ejemplo, no podía compartir un video o un audio. Entonces él me colaboraba, yo le decía, me lógicamente todos, yo le decía, "Hermano, dígame, ayúdeme con eso, dígame cuánto vale, pero por favor hágale porque me aparecían noticias que yo tenía solo audios o tenía solo videos y no las podía subir." Entonces fue así,
+
+
+
+
+00:16:00
+
+
+CBNnoticias: pero ya al final el muchacho no se lo hacía como como no con muy buen agrado, ¿eh? Y yo le dije después le dije, "Hermano, hagamos, quiero cambiar la página, si ayúdeme para hacerla más práctica, más moderna, pero me salió nuevamente con una plantilla." Me dijo, "Sí, claro, me mandó, me cambió de plantilla." Sí. Y pasó lo mismo. Pasó lo mismo. Y luego con el último muchacho que hablé, eh, yo le dije, le dije, "Ayúdeme para mejorar la página." Sí, que sea una página de noticias que sea práctica. Me interesa que sea práctica y la gente la pueda la pueda pueda ver las noticias de forma que no sea complicada. Y pues como yo no entiendo de esto, sí, eh, lo primero que me dicen este, listo, es así, hágale así y y me dicen, empieza a subir noticias. Entonces el muchacho este me dijo, "Yo le voy a hacer eh le voy a mandar esta este prospecto que es muy fácil." Y le dije, "Bueno, listo, hágale." Pero entonces yo no entendí porque él me dijo, "Sí, yo le voy a hacer la página y ahí puede subir todo el tipo de noticias que usted quiera." Pero cuando yo empecé a subir noticias,
+
+
+
+
+00:17:32
+
+
+CBNnoticias: vi fue una chorrera. Es decir, yo empecé a subir noticias porque yo en el día subo un promedio tres, cuatro noticias. cuando vi fue que empezó a armarse una fila de ahí para abajo de noticias, pero yo cuando fui a buscar, por ejemplo, el historial de de alguna noticia en Google, como antes lo decía,
+Luis (Luis Nino): Parece
+CBNnoticias: no me aparece, ya no hay eso se perdió. Entonces yo dije, "No, esto no lo yo no necesito esto." Mucha gente, gran parte de la de la audiencia que yo tengo, pues no lee la noticia inmediatamente, pues porque la gente trabaja, yo dejo para más tarde o muchísima gente, muchísima gente de la audiencia que yo tenía antes de que se enfrentaran estos problemas está fuera de de Canadá. Gente, México, Colombia y Estados Unidos son las las zonas donde yo más gente tengo que leer las noticias. Entonces, las buscaban o encontraba las noticias a través de la búsqueda que hacían en Google, ¿sí? O en los buscadores. Allí buscaban noticias de inmigración en Canadá y Prum, se iban directamente a mi página. Noticias de Vancor, proman, llegaban acá. Eso ya no se puede hacer. Porque tienen que darle primero se ven noticias Canadá y bueno y empezar casi que a decir, "Yo quiero la noticia que escribió José Augusto Marín en Vancouver el día para poder encontrar la noticia."
+
+
+
+
+00:19:03
+
+
+CBNnoticias: Entonces perdí toda esa toda esa parte que ya había realizado, ese trabajo que había realizado porque es Sí, yo veo que realmente sí es muy fácil para subir la noticia aquí. Es facilito. Sí, es facilito, pero pero es muy difícil llegarle a la gente con este
+Luis (Luis Nino): Ok.
+CBNnoticias: tipo de de trabajo, de formato. Sí, porque, ¿qué me qué estoy haciendo yo ahora, por ejemplo, para que la gente alcance a leer de la página? Me toca coger la noticia y cogerlo uno por uno en WhatsApp para compartirlo. Eso me toma, es decir, y como WhatsApp no permite no compartir cinco cinco contactos de una, entonces no es decir, me demoro una dos horas mandando una noticia para que para que 300 400 personas la lean, entonces no tiene sentido. Sí. Entonces es son esas dificultades
+Luis (Luis Nino): Ahora sí. Parece que que las personas queon tienen como muy claro el tema de la tecnología,
+CBNnoticias: que
+Luis (Luis Nino): pero muy poco claro el tema de consumo y el tema de de de qué hace un usuario cuando lee. Una persona cuando lee, ¿qué quiere? Pues ve un titular, dar clic, entrar y buscar en Google inmigración, leyes de inmigración y salgan allá esas noticias para empezar a klicar y mirar cuál de todas se adapta a lo que están
+
+
+
+
+00:20:34
+
+
+CBNnoticias: hm
+Luis (Luis Nino): buscando. Más que tener un portal y llegar y explorar y explorar.
+CBNnoticias: Mhm.
+Luis (Luis Nino): La gente no consume de esa manera, entiendo yo, por escuchándote hablar y eso pasa mucho entre nuestro BM,
+CBNnoticias: Mhm.
+Luis (Luis Nino): a veces un poco por ego, a veces un poco por ignorancia, a veces porque simplemente pues como ingenieros no no adquirimos esta capacidad de extraer información de de lo que dicen las personas y parece que te está costando mucho.
+CBNnoticias: Mhm.
+Luis (Luis Nino): Yo quiero preguntarte ya en términos de ingresos, si dejaras la página como está el día de hoy,
+CBNnoticias: Mhm.
+Luis (Luis Nino): en los próximos 8 meses, ¿cuánto te representaría a ti eso en costo en en valor?
+CBNnoticias: En valor que yo tenga que que sacar para que funcione la
+Luis (Luis Nino): dejar de percibir,
+CBNnoticias: página.
+Luis (Luis Nino): dejar de percibir porque dejar la página tal cual está el día de
+CBNnoticias: Eh, a ver, te te pregunto,
+Luis (Luis Nino): hoy.
+CBNnoticias: es decir, lo que me representa en dinero esa página, lo que me produzca esa página, ¿cómo está? ¿O al contrario?
+Luis (Luis Nino): Sí. O sea,
+CBNnoticias: Ah,
+Luis (Luis Nino): al contrario, es que digamos que que como estaba antes y como tú podías indexar ese montón de contenido allá a
+
+
+
+
+00:21:39
+
+
+CBNnoticias: ya.
+Luis (Luis Nino): Google, tenías x cantidad de dinero y eso se empezó a decaer.
+CBNnoticias: Mm.
+Luis (Luis Nino): Ya va x menos tanto. Si lo dejas 8 meses más, ¿cuánto dinero has perdido? Más o menos habrás perdido.
+CBNnoticias: Pues a ver, te voy a ser muy sincero, sí, la página como tal e a mí no me, es decir, yo lo he mantenido más como un servicio a la comunidad que como un ingreso. Sí, porque cuando yo llegué aquí, yo tuve fue un noticiero en radio. Sí, en esa época hace 20in y pico de años la comunidad nuestra era muy pequeña. Yo, sin embargo, tuve notero 4 años en radio y era a través de ese medio que yo generaba ingresos porque si era muy comercial. Bueno, era muy comercial, no era comercial noticiero, pero la comunidad y la parte comercial hispana era muy pequeña aquí. Entonces, cuando cuando vi que realmente no funcionaba, yo terminé el noticiero en radio y eh me puse a estudiar o se aquí en el BCIT estudié periodismo en línea. En esa época apenas estaba empezando el tema de del periodismo en línea y cómo era el tema de las redes sociales, cómo es el tema de el periodismo en internet.
+
+
+
+
+00:23:19
+
+
+CBNnoticias: me recomendó uno de los profesores, me dijo, "Vea, métase por ahí, monte una página y hágalo por ahí porque su comunidad es pequeña. En este momento no representa usted mayores ingresos porque apenas la audiencia empieza a crecer. hágale por ahí y si quiere mantenerlo como cosa suya, hágale. Y yo le hice caso porque aprendí cómo, por ejemplo, cómo llegar a la comunidad y lo que el programa de periodismo en línea que hice allí en BCIT. Entonces, a ver, te cuento, los ingresos que yo percibo con la página son muy pocos porque realmente no le he dedicado parte a esa área. ¿Por qué? Porque, por ejemplo, hubo llegaron tres, cuatro clientes, me dijeron, "Bueno, muéstreme qué audiencia tiene usted." Sí.
+Luis (Luis Nino): ¿Qué engagement?
+CBNnoticias: Y cuando Ajá.
+Luis (Luis Nino): ¿Cuál es su segmento?
+CBNnoticias: Entonces, cuando clientes hay clientes hay interesados me han dicho, "José, lo que pasa es que eh yo sé que usted su trabajo es bien, muy serio, es muy creíble, mucha confianza, pero muéstreme cuál es su su target, cuál es su su audiencia." Es ahí donde está la falla, porque después de que tú es ahí ese se presentó el problema primero con a nivel nacional con la parte de meta, eso se fue al piso.
+
+
+
+
+00:24:53
+
+
+CBNnoticias: Sí. Entonces, eh yo no te puedo cuantificar, por ejemplo, en este momento, en los próximos 8 meses, qué dejaré yo de percibir, porque a ver, si yo te digo en el último año eh tuve un, dos, tres, cuatro clientes que me buscaron. Yo no he buscado clientes, te soy sincero, no los he buscado porque porque realmente a mí no me gusta engañar a la gente, ¿no? Yo soy muy claro y les digo, "Mire, le puedo ayudar a usted, por ejemplo, publicando dos noticias en la página web, haciéndole un reel en Instagram y otro en TikTok y subiendo en Facebook una versión noticiosa de lo que usted necesita. Sí. Entonces, digamos que en el último año eso me ha representado usted diga eh $2,000. Sí, eso es lo que más de ahí no ha pasado. Sí, pero no porque no porque yo haya estado interesado en que listo, es que yo busco gente, busco clientes y entonces porque yo les puedo ofrecer eh un poco de de visitas, ¿no? Porque a mí me es decir, yo no soy para eso, si me entendés, yo quiero ser muy claro con la gente. Le digo, mire, yo qué puedo hacer en Facebook, en mi perfil personal. Si lo ves, son 3500 eh personas que me siguen allí.
+
+
+
+
+00:26:34
+
+
+CBNnoticias: Sí, sí, son 3500 personas que tengo ahí que diariamente están visualizando el contenido que yo manejo. En YouTube tengo unos 100, 1600 seguidores. Sí, en la página, en la página tengo muy pocos. Es decir, yo diría que por ahí unos cerca de 1000.
+Luis (Luis Nino): cerca de más o menos. A ver, las herramientas que yo utilizo para hacer prediagnóstico de este caso,
+CBNnoticias: Sí.
+Luis (Luis Nino): yo encontré que tu competencia es el correo canadiense, el diario popular, la la torta de Vancouver, Viva Vancouver y Latin Couver. Tú estás dentro de los más bajitos. Eres el medio más pequeño, más grande de Canadá.
+CBNnoticias: Mhm.
+Luis (Luis Nino): más o menos haces un promedio entre 1000 y pico de visitas cada mes. Si nos vamos al siguiente que es la Tinco Cuber,
+CBNnoticias: Mhm.
+Luis (Luis Nino): que tú podrías llegar mucho más porque realmente lo como estamos ahorita,
+CBNnoticias: Mhm.
+Luis (Luis Nino): como deberíamos estar, son 6,000 visitas al mes.
+CBNnoticias: Mhm.
+Luis (Luis Nino): O sea, y estamos hablando de que tú tienes tú tienes presencia en los tres mercados más grandes de América,
+
+
+
+
+00:27:39
+
+
+CBNnoticias: Mhm.
+Luis (Luis Nino): México, Estados Unidos y Canadá.
+CBNnoticias: Mhm.
+Luis (Luis Nino): Estoy hablando grandes, no en población, sino en en poder adquisitivo,
+CBNnoticias: Mhm.
+Luis (Luis Nino): ¿no? Entonces,
+CBNnoticias: Mhm.
+Luis (Luis Nino): hay un trabajo importante que hacer aquí y y podría ser la transformación de que esto se convirtiera de algo como un ingreso pasivo a convertirse a un trabajo. Bueno, yo yo sí quiero saber para saber exactamente en qué me puedo enfocar y con qué cuento.
+CBNnoticias: Mhm.
+Luis (Luis Nino): Entonces yo te digo, si encontráramos un una arquitectura que funcionara, quisiera todo lo que tú veas, que vayas a ver, que veas un crecimiento en las visitas, que puedas ver. Hay otra cosa que veo que también hay que meter mucho, eh, tú eres periodista y no estás enfocado por el lado del mercadeo y está perfecto. Es es nuestro trabajo. Pero lo que quieren ver las marcas ahorita, engagement, visitas, audiencia, quieren ver eh quién te está viendo, no porque no porque no porque no te crean,
+CBNnoticias: Mhm.
+Luis (Luis Nino): porque quieren saber a quién le pueden pegar contigo, qué target, qué posición,
+CBNnoticias: Mhm.
+Luis (Luis Nino): qué cantidad económica tienen esas personas, qué consumen esas personas, porque tampoco la idea es publicar ahí al que pague La idea es publicar al que le represente a uno eh, y a esas marcas, dinero.
+
+
+
+
+00:29:11
+
+
+CBNnoticias: Mm.
+Luis (Luis Nino): Hm. O sea, pasar de ser de ser un medio a ser una a crear un portal rentable.
+CBNnoticias: Sehm.
+Luis (Luis Nino): Y yo te pregunto, en ese caso, ¿cuánto debes qué presupuesto tendrías tú disponible para invertir para este proyecto? para hacer el rediseño completo, logrando un al con unos objetivos claros y medibles.
+CBNnoticias: Pues a ver, eh lo que lo que yo busco, pues eso sería, es decir, no es inmediatamente a ver te quiero te quiero ser muy preciso. ¿Qué busco yo? Primero arrancar con este producto que según lo que he podido experimentar en todos estos años es tener una página web que es la base de todo. Sí, que es la base de todo. Si no tengo página web, yo me puedo poner a regar contenido en TikTok, en Instagram, pero si yo entiendo que, es decir, en lo poco que conozco, sé que crear contenido en las redes sociales puede generar muy buenos ingresos, pero hay que darle y matarse y hay que correr y hacerle a toda hora porque si no la gente se mama y dice, "Bueno, ¿usted qué se hizo?" Así como mucho, yo he visto, por ejemplo, que muchos influencer en un mes son contenidos por todas partes, pero desaparecen de un momento a otro.
+
+
+
+
+00:30:42
+
+
+CBNnoticias: Sí, yo no quiero hacer eso. Yo lo que quiero es mantenerme y que a la base sea esa producción, ese contenido que hay en esa página web y desde allí se desprenda. Sí, que sea algo mucho más serio,
+Luis (Luis Nino): Sí.
+CBNnoticias: porque ese siempre ha sido mi mi lema, es decir, que la confiabilidad que siempre ha tenido la gente en el trabajo que yo hago se mantenga. Entonces, si me preguntas de un de un presupuesto en este momento, yo diría que el presupuesto está para inicialmente trabajar en la página web y a partir de ahí mirar ese ese trabajo que hay que hacer ya para empezar a expandir ese contenido y buscarle ya el mercado. lo que hay que hacer. Hm. No sé. Es decir, eh, en esa parte sí me gustaría saber usted que qué es que es ingeniero y que conoce toda esa parte. Sí, me gustaría que me elaboraras, por ejemplo, un una oferta y me dijeras, "José, ¿te puedo ayudar para mejorar esa página web? Para iniciar esa página." Sí, puede tener un costo X. Sí. Y a partir de ahí yo te digo, listo, arranquemos o podemos, yo podría manejar un presupuesto decir de de me dirías cuánto tiempo, en cuánto tiempo tendrías eh se podría concretar esa oferta o podrías realizar ese trabajo.
+
+
+
+
+00:32:24
+
+
+CBNnoticias: Entonces, yo te digo, listo, eh, lo hacemos o lo hacemos de tal manera que en la medida en que se vaya haciendo el trabajo, eh, se va desembolsando el el presupuesto que se tiene. Sí, porque no sé, es decir, no sé cuánto cuánto me pueda costar inicialmente el trabajo de la página. No sé, no sé.
+Luis (Luis Nino): Vale, en ese caso, déjame recolectar lo que yo tengo. Lo que pasa es que siempre veo que hay un esfuerzo importante y como tú dices, efectivamente la página web es el integrador de todo y lo que hay que llegar, hay cosas que y hay que buscar un montón de estrategias aquí,
+CBNnoticias: Mhm.
+Luis (Luis Nino): o sea, no no solamente es esto no es solamente un desarrollo web y tú puedes contratar de pronto un diseñador gráfico y te va a hacer algo muy bonito,
+CBNnoticias: Mhm.
+Luis (Luis Nino): pero no va a ser por de pronto tan funcional como lo puede hacer un desarrollador. y tú contratas un desarrollador y de pronto tampoco se va a enfocar en que se vea bonito, que tampoco es la idea, porque finalmente es un es la cara de algo que va al público. Y finalmente,
+CBNnoticias: Mhm.
+Luis (Luis Nino): y el tercer componente de esto es el marketing y el mercadeo, porque esto tiene que recaer, al final al cabo,
+
+
+
+
+00:33:33
+
+
+CBNnoticias: Mhm.
+Luis (Luis Nino): eh, tiene que tener una estrategia profunda en el tema de deseo, ese o se and.
+CBNnoticias: Mhm.
+Luis (Luis Nino): Yo no sé si tú te acuerdas de de páginasamarillas.com.
+CBNnoticias: Sí,
+Luis (Luis Nino): Yo trabajé para publicar. Yo trabajé para publicar.
+CBNnoticias: sí,
+Luis (Luis Nino): Yo fui uno de los que empezó a hacer optimización hace más de 10 años allá y logramos pasar de tener 30 páginas a tener 300 páginas haciendo cosas
+CBNnoticias: mm.
+Luis (Luis Nino): simples, pero bien hechas. Y y todas esas cosas hay que construirlas acá porque como tú bien dices, por ejemplo, esa pelea con meta tenemos que lograr hacer un una lista de correos para hacer un newsletter y que la gente deje de pasar por Facebook y se venga aquí y se inscriba y tú les puedas enviar un correo, un mensaje de texto,
+CBNnoticias: Mhm.
+Luis (Luis Nino): encontrar todas esas estrategias para tomar tiempo y no va a ser económicamente,
+CBNnoticias: Mhm.
+Luis (Luis Nino): o sea, económicamente barato o simple,
+CBNnoticias: Mhm. Mhm.
+Luis (Luis Nino): pero al final tampoco lo tienes que ver que tú tienes que vas a ser esclavo de tu contenido. Hay muchas cosas que van a pasar aquí y hay muchas herramientas que hay que implementar.
+
+
+
+
+00:34:40
+
+
+CBNnoticias: Mhm.
+Luis (Luis Nino): Por ejemplo, por lo que he leído, no eres fanático de la inteligencia artificial.
+CBNnoticias: Eh, perdón, te interrumpo allí. Sabes que estoy, es decir, eh no es que sea fanático, no, sino que no conozco y de pronto me da temor eh cometer errores, pero yo la estoy utilizando. Te voy a decir cómo. Mira, si ves por ejemplo allí, ah, mira, esa esa imagen ahí yo la estoy utilizando. Sí, yo estoy utilizando imágenes, por ejemplo, porque es uno de los problemas también que bueno, no es problema, ya aprendí, he aprendido un poco cómo se maneja el tema de las imágenes y sobre todo aquí en Canadá que hay tanto lío con
+Luis (Luis Nino): Keep it
+CBNnoticias: la Sí. con el derecho del derecho de autor. Entonces, eh he echado mano de la inteligencia artificial para generar imágenes. Sí, pero eh he estado allí, sí, he estado allí y claro, es decir, yo no me puedo quedar atrás ni puedo decir, "No, es que no, no, al contrario, eso es lo que quiero hacer, echar mano de todas esas herramientas que ofrece la tecnología moderna, pero sí de la forma en que no vaya a mamar a la gente. por ejemplo, porque hay he escuchado y por ahí hay comentarios que dicen, "No, pero es que a ratos los contenidos tienen mucha mucha son creados con mucha inteligencia artificial, uno no sabe si son verdad o no sé qué. Entonces, yo me cuido mucho de eso.
+
+
+
+
+00:36:21
+
+
+CBNnoticias: Por ejemplo, eh las imágenes yo trato de pedirle lo más preciso posible, sí, que se adapte a la información que yo voy a sacar. Cuando no veo que es así, yo la elimino y prefiero colocar, por ejemplo, sobre todo en temas judiciales, cojo una imagen del RCNP, un escudo, una bandera, un uniforme y le incrusto allí porque me interesa que para mí la credibilidad en el tema de periodística es vital. Yo no sí,
+Luis (Luis Nino): 100%
+CBNnoticias: yo no quiero que digan, "No, es que este está inventando cosas." No, he tenido, por ejemplo, dos, tres casos en los últimos 15 años. Por ahí un mexicano una vez, "Ah, es que cuál es tu fuente, eso no creo que sea cierto, no sé qué." Y para mí eso es como como si me dijeras, "So es un mentiroso." Sí. Pues cuando eso ocurre, yo nunca le contesto a la gente, no, nunca lo hago, pero cuando eso ocurre, ah, por ejemplo, como ayer, como como Pamela y Sami que me dijeron que
+Luis (Luis Nino): Yo me di cuenta con el mensaje con Sami. Yo me di cuenta y y y yo me he dado cuenta cuál es tu posición.
+CBNnoticias: eso
+Luis (Luis Nino): Yo soy un poco más defensivo, pero desde lo reflexivo, no desde el atacar.
+
+
+
+
+00:37:41
+
+
+CBNnoticias: ajá porque te han dado
+Luis (Luis Nino): Si te has dado cuenta también de mi posesión, yo que tú estás así,
+CBNnoticias: duro,
+Luis (Luis Nino): ¿cómo?
+CBNnoticias: porque te han Yo he visto que te han te han criticado a
+Luis (Luis Nino): Todo, todo. O sea, yo yo siempre he dicho que que,
+CBNnoticias: ratos.
+Luis (Luis Nino): o sea, el valor de de que hemos tenido ahí en ese comité es así impresionante porque hemos hecho cosas, pero también a veces la lucha, yo soy una persona que muestra ser muy humilde y muy pasivo y lo soy,
+CBNnoticias: Hm.
+Luis (Luis Nino): pero la gente no sabe que oculto que hay cosas con las que yo tengo unos innegociables que no van a pasar,
+CBNnoticias: Hm hm
+Luis (Luis Nino): ¿eh? Y si llego que tomar medidas,
+CBNnoticias: hm.
+Luis (Luis Nino): las tomo. No, créeme que nunca lo nunca lo he dudado,
+CBNnoticias: Mhm.
+Luis (Luis Nino): pero pareciera que la gente no cree eso y ya se han encontado con dos o tres momentos donde no va a pasar y ni siquiera yo hay puntos donde yo no abro la
+CBNnoticias: Sí, no.
+Luis (Luis Nino): negociación porque es que no tiene negociación. Y si tú te vas a dar cuenta, tú que eres más de mi edad,
+
+
+
+
+00:38:43
+
+
+CBNnoticias: Mm.
+Luis (Luis Nino): eh, nosotros no nos ponemos a tirar pólvora por acá, por allá, por allá. Y yo trato siempre de ser muy reflexivo porque no me gusta entrar, la controversia me fastidia y eso es un desgaste de energía tremendo.
+CBNnoticias: Mhm.
+Luis (Luis Nino): Hasta que de pronto la persona ya cae en cuenta. A veces también me cansa de eso porque es agotador y en este caso el trabajo es más agotador porque es un trabajo voluntariado. Aquí nadie se le está pagando un sueldo y yo no soy un villano que dice,
+CBNnoticias: Mhm.
+Luis (Luis Nino): "Oiga, es que usted se ofreció, tiene que hacer lo que yo y es que yo no sé y es que soy yo." Si alguien quiere tomar el liderazgo,
+CBNnoticias: Mhm. Mhm. Mhm.
+Luis (Luis Nino): hombre, bienvenido a las cosas porque hay momentos donde yo también tengo que hacer dinero para subsistir.
+CBNnoticias: Claro,
+Luis (Luis Nino): Aquí aquí no es barato vivir y sí,
+CBNnoticias: claro,
+Luis (Luis Nino): está bien, perfecto,
+CBNnoticias: claro.
+Luis (Luis Nino): bienvenido. Pero hay cosas que no, definitivamente no van a pasar. Por ejemplo, ¿no te acuerdas el tema de la política?
+
+
+
+
+00:39:40
+
+
+CBNnoticias: Mhm.
+Luis (Luis Nino): usted no es el lugar y no nunca lo va a hacer.
+CBNnoticias: Mhm.
+Luis (Luis Nino): Entonces es lo mismo. Y yo entiendo cómo eres tú y y también he analizado un poco eh las
+CBNnoticias: Mhm.
+Luis (Luis Nino): comunicaciones tuyas. Hoy me sonreé, ¿no? Bendito y hay una defensiva y todavía sigue habiendo defensiva cuando hay números. Es que cuando te paras, no te paras en la roca de de los dos, no te paras en la roca de yo pienso, yo creo, yo siento,
+CBNnoticias: Mhm.
+Luis (Luis Nino): es que a mí me pareció nunca.
+CBNnoticias: Mhm.
+Luis (Luis Nino): La estadística dice esto, la historia ya ha crecido y esto y la proyección da tanto todavía.
+CBNnoticias: Mhm.
+Luis (Luis Nino): Ah, pero es que yo lo que quise decir, matizar, matizar el contenido, matizar el
+CBNnoticias: Ya, perdonate, te interrumpo, Luis. Eh,
+Luis (Luis Nino): la
+CBNnoticias: la idea, la idea de, bueno, es un paréntesis aquí, la idea de de este proyecto de de fiebre amarilla, ¿de quién es
+Luis (Luis Nino): Sí, pues es que es que,
+CBNnoticias: tuya?
+Luis (Luis Nino): o sea, yo creé el grupo, yo creé el grupo, yo creé el grupo y empecé a llamar la gente y entonces Paula me dijo, "Oiga, ya hay 200 personas, usted no puede solo con eso, déjeme ayudarle." Yo ayudo coordinando.
+
+
+
+
+00:40:57
+
+
+Luis (Luis Nino): Yo le dije, "Listo,
+CBNnoticias: Hm.
+Luis (Luis Nino): la nombré, la nombré a ella." Y ahora yo digo que la idea original se llamaba Funfest Chirt porque era como el lugar donde todos los que íbamos a al fanfest íbamos a intercambiar. Esa era mi idea original.
+CBNnoticias: Mhm.
+Luis (Luis Nino): Pero todo cambió a fiebre amarilla,
+CBNnoticias: Mhm.
+Luis (Luis Nino): porque todos no, pero es que somos somos somos fanáticos de la selección y así se llama a todas partes.
+CBNnoticias: Mhm. Mhm.
+Luis (Luis Nino): Y a mí me pareció tan sincero que cambiemos el nombre, pum,
+CBNnoticias: Mhm.
+Luis (Luis Nino): y ha ido despegando y y ya se volvió una cosa tan rara. Aunque tenemos que entender que esto es un fenómeno que pasa por el
+CBNnoticias: Mhm.
+Luis (Luis Nino): mundial.
+CBNnoticias: Sí.
+Luis (Luis Nino): esto no se hubiera podido generar en medio de otro momento.
+CBNnoticias: No, no, no.
+Luis (Luis Nino): Y hay muchos de estos de estas revoluciones que pasan son bien interesantes porque a veces puedes capitalizarle, convertir esto en una comunidad enorme y crear esa masa y volver la persona. Como puede que no pase, puede que todo el mundo mañana se acabó el mundial,
+
+
+
+
+00:41:54
+
+
+CBNnoticias: Mhm.
+Luis (Luis Nino): listo, fuimos campeones, quedamos de terceros, lo que sea. Hasta luego y chao. Por eso es que yo tengo ciertos conceptos como,
+CBNnoticias: Sí.
+Luis (Luis Nino): por ejemplo, no podemos perder la idea, la identidad de comunidad porque yo creo en crear una comunidad en torno a esto y que
+CBNnoticias: Mhm.
+Luis (Luis Nino): esto se acab porque es que yo no sé, me imagino meino que tú estás en varios grupos de WhatsApp, uno de los más famosos aquí se llama eh colombianos un combo chévere colombianos en vez de un combo chévere y ellos son 830 y a Paula,
+CBNnoticias: Mm.
+Luis (Luis Nino): yo conozco a la chica, yo estuve en una celebración de fin de año con ella le tomó o 3 años llegar hasta ese número.
+CBNnoticias: Mhm.
+Luis (Luis Nino): Nosotros hemos hecho eso en menos de una semana, dos semanas.
+CBNnoticias: Mhm.
+Luis (Luis Nino): Pero bueno, entonces pues yo yo la idea fue fue mía. Yo he tratado de manejar las cosas,
+CBNnoticias: Ya.
+Luis (Luis Nino): pero siempre con la ayuda y también teniendo el tacto para entender que es un voluntariado. Al final nadie ha pedido nada y no no se puede ofrecer nada.
+CBNnoticias: Sí, sí, clarom.
+
+
+
+
+00:43:01
+
+
+CBNnoticias: Ah, ya.
+Luis (Luis Nino): Ahora sí, bueno,
+CBNnoticias: Listo.
+Luis (Luis Nino): para redondear la idea, quedó claro que no me quieres expresar números,
+CBNnoticias: Pues a ver, no, esp, eh. Es decir, porque realmente me interesa mucho lo que me estás diciendo,
+Luis (Luis Nino): Pero
+CBNnoticias: es decir, que que y estamos completamente de acuerdo en que la página web debe ser la base de todo este proyecto. Sí. Para de allí enfocarlo y orientarlo hacia la parte de marketing, que es lo que necesitamos. Sí. ¿Y qué es lo que me me estás explicando? Perfecto, completamente completamente de acuerdo. ¿Y por qué no te doy cifras? Porque realmente no sé. Es decir, eh si si visualizamos el si visualizamos el el futuro,
+Luis (Luis Nino): Sí.
+CBNnoticias: yo te diría, a ver, te cuento, me voy un poco atrás. Eh, yo tuve un momento en que yo me llevaba por delante a la Tincuber. Es que, a ver, hay una, para mí la gran diferencia es esta, la gran diferencia. Yo yo realmente aquí no tengo no me siento con competencia en lo que yo hago y pues suena un poco como raro. ¿Por qué? Porque es que lo mío son noticias. la Team Cuber, ellos tienen eh el contenido de ellos es eh mucho más eh generalizado en términos de eventos, información cultural.
+
+
+
+
+00:44:39
+
+
+CBNnoticias: Eh, lo mío es información precisa sobre hechos puntuales que están ocurriendo minuto a minuto aquí en Vancouver, sobre todo aquí en BC, en Canadá. Y esa información que le interesa al hispano que está aquí o al que quiere venir o al hispano o al extranjero que le gusta nuestra cultura y quiere conocer de nuestros países. Sí. Eh, yo tengo muy claro ese tengo muy claro el contenido que yo produzco. Sí, yo no pierdo tiempo, por ejemplo, eh sacando información que sé que a la a la mi audiencia no le va a interesar y eso me he dado cuenta. Eso hace rato lo tengo muy claro. Es decir, ¿qué me interesa a mí? informarle a la gente nuestra, a los latinos, a los que hablan español aquí en Canadá, de lo que ocurre dentro de Canadá y ofrecerle información a los que les interesa Canadá, que están por fuera de Canadá, para que ellos conozcan lo que está ocurriendo aquí. Sí, en todos los en todas las áreas. Entonces, yo tuve un momento, tuve por ahí como 3 años que con mi página yo tenía tres veces la audiencia que tiene la Tincuer hoy en día. Tenía tres veces, me la sobrepasaba. Yo no tenía aquí, no tenía aquí, no tenía igual. Entonces, eh, y ahora en la parte comercial, sí, yo llegué a tener, te voy a comentar para que te des una idea, yo llegué a tener llamados de Canadá, de el Tidana de el gobierno de BI que
+
+
+
+
+00:46:38
+
+
+Luis (Luis Nino): Cuando estuvo la oleada,
+CBNnoticias: querían.
+Luis (Luis Nino): cuando empezó la oleada de gente viniendo aquí por W y todo eso también me imagino que yo estuvo ya atentó a decirle, "Venga,
+CBNnoticias: Entonces ellos me yo tuve contacto con ellos y un momento en que me dijeron que querían o querían saber cómo ellos promocionar ciertas clases de productos en mi página. Pero, ¿qué pasó? Resulta que yo la parte así como decís, yo creo contenido, investigo, hago entrevistas, soy reportero, pero la parte de marketing no la manejo. Ese es el grave error de nuestros periodistas viejos que nos enseñaron a coger una berraca grabadora, salga, consiga una información, pero no a vender. Sí.
+Luis (Luis Nino): Es que está triste que, perdóname,
+CBNnoticias: Entonces,
+Luis (Luis Nino): te interrump comentario. Mira, hay un chino que tiene 22 años, nunca pasó por una facultad de periodismo, pero sabe informar lo que quiere entender la gente,
+CBNnoticias: mm.
+Luis (Luis Nino): sabe entretener porque ahorita desafortunadamente el mundo de ahora muy plástico, la cultura no vende. se llama Luisito Comunica y el mantiene 20 millones de seguidores mensuales. O sea, hay marcas, hay marcas tan grandes como Samsung que a nivel global sí le pueden pagar a este tipo 100 veces un salario mínimo de México para que les haga una publicidad
+
+
+
+
+00:48:00
+
+
+CBNnoticias: Mhm.
+Luis (Luis Nino): de de menos de 20 minutos.
+CBNnoticias: Mhm.
+Luis (Luis Nino): Y es un tema. Él más no sabe periodismo. Bueno, él tiene idea porque él como que estudió por ahí algo, pero no es un periodista formado, no es de la vieja guardia. Pero lo que sí sabe, si usted le pregunta al tipo,
+CBNnoticias: Mhm.
+Luis (Luis Nino): ¿quién es la persona que entra? ¿Cuánto vende? ¿Cuánto tiempo se quedan los canales y medios de él? ¿Cuál es la forma de adquirir nuevos? ¿Cuáles son? Todo eso lo tiene supercaro. Entonces,
+CBNnoticias: Mhm.
+Luis (Luis Nino): a veces es desafortunado, pero a veces es es más importante eso y no quiere decir que no sea valioso ser
+CBNnoticias: Mhm.
+Luis (Luis Nino): un excelente periodista, porque es que yo me dado cuenta que un buen periodista también conoce muchísimo a la gente, muchísimo, no solamente el individuo, sino también a la más en general,
+CBNnoticias: Mhm.
+Luis (Luis Nino): quiénes son y por qué están aquí. Bueno, yo creo, José, que podemos dejar la reunión por ahí. Déjame, yo voy a revisar con toda esta información que me has dado y te envío una propuesta.
+
+
+
+
+00:49:10
+
+
+CBNnoticias: Mhm.
+Luis (Luis Nino): Trato de entender a ver qué es lo que más nos conviene a los dos,
+CBNnoticias: Mhm.
+Luis (Luis Nino): porque tampoco quiero hacer lo que han hecho los otros, que básicamente es decirte, aquí está lo que usted necesita, tome, eh, son 300, 400 y hasta luego. Nos vemos la semana entrante y usted lo utiliza ahí. No, eso no es, no tiene nada que ver.
+CBNnoticias: Sí, no, yo lo que lo que quiero es e hacer algo que que realmente, es decir, no quiero ponerme, no quiero seguir perdiendo el tiempo y quiero ser claro en esto, no es que yo esté perdiendo el tiempo con la gente, no. La gente, por ejemplo, aquí en Canadá la gente me identifica con el trabajo que yo he hecho. Mire, por ejemplo, eh en los en las dos saliditas que he hecho con con el grupo, con el comité que vos creaste y todo, llego en Nor Vancouver, llegué y yo soy poco de de meterme en esos grupos grandes, de meterme en soy poco amigo de las montoneras, es más fácil decirlo, pero llego donde llego y me dicen, "Ay, me salieron con esto en en Nor Vancouver y varias veces me han me han dicho Eso. A mí eso no me no me sube ni me baja,
+
+
+
+
+00:50:34
+
+
+CBNnoticias: pero sí es agradable escuchar. Yo no les expreso, le expreso gratitud. Claro, lógicamente, pero una pareja me dice, le dijo él a ella, ¿usted sabe quién es él? Y entonces yo le dije, "Disculpe, ¿usted me conoce?" Me dijo, "Si es que usted es uno de los más famosos colombianos que hay en Canadá." Y le yo, "¿Y eso, ¿por qué? Usted, usted me, ¿quién es usted?" Disculpe, ¿quién es usted? Bueno, usted el de las noticias, si nosotros lo conocemos, usted siempre nos manda las noticias, publicamos en las redes sociales, nosotros nos damos cuenta lo que está pasando en Canadá por usted y entonces di la muchacha,
+Luis (Luis Nino): Bueno,
+CBNnoticias: di la muchacha, ay sí, sí es él. Entonces mucha gente, por ejemplo, en Toronto también me pasó una vez,
+Luis (Luis Nino): Claro.
+CBNnoticias: íbamos para Colombia y me dice alguien, me dice, "¿Usted es el periodista colombiano, ¿cierto?" Y le dije yo, "Sí, yo soy perista colombiano." Me dijo, "Sí, yo conozco el trabajo que usted hace. Muchas gracias por ayudarnos." Sí. Entonces, eh para mí eso es es muy grato. Pero sí vale la pena hacer ese esfuerzo para que ese trabajo también pues se vea se vea, es decir, no seguirlo haciendo gratis, recuperar algo de lo que se ha hecho.
+
+
+
+
+00:51:51
+
+
+Luis (Luis Nino): Exacto. Y no, y que sea, o sea, es que no hay nada más bonito que vivir de lo que uno sabe y le gusta hacer.
+CBNnoticias: Mm.
+Luis (Luis Nino): No, no hay más nada más satisfactorio para el ser humano que que lo pueda hacer sentir realizado.
+CBNnoticias: Sí, sí,
+Luis (Luis Nino): Entonces,
+CBNnoticias: sí,
+Luis (Luis Nino): yo creo que al final el objetivo suyo es el que todos tenemos, no es un objetivo y no está mal,
+CBNnoticias: sí,
+Luis (Luis Nino): no está mal porque es que también,
+CBNnoticias: claro.
+Luis (Luis Nino): o sea, un objetivo, el objetivo de la monetización no riñe con prestar un servicio. Lo que pasa,
+CBNnoticias: Mhm.
+Luis (Luis Nino): lo que si el problema, ¿sabes cuándo es? cuando se está se está dispuesto a todo por la monetización o cuando no se hace en una
+CBNnoticias: Mhm.
+Luis (Luis Nino): forma amable o en una forma que sirva y funcione. Porque es que usted, por ejemplo, usted hubiera podido negociar con el Canadá y ponga ponemos un aviso y ellos le dicen y ponen algo que no es que es
+CBNnoticias: Mhm.
+Luis (Luis Nino): fraudulento. Cosa, eso no se debe hacer.
+
+
+
+
+00:52:45
+
+
+Luis (Luis Nino): Afortunadamente uno sabe quién es el Canadá, entonces uno ya dice ahí no va a pasar eso. Lo que ellos digan lo van a cumplir. Pero entonces usted dice,
+CBNnoticias: Sí.
+Luis (Luis Nino): "No, toca ofrecerle algo a la comunidad y si lo va a publicar, ellos lo van a ver, lo van a consumir, va a haber un tráfico, es mejor que eh ustedes den algo en forma de un beneficio, el que sea, y eso y eso genera ahí vuelve el gane gana, el gane gana,
+CBNnoticias: S.
+Luis (Luis Nino): gana la comunidad,
+CBNnoticias: Mhm.
+Luis (Luis Nino): ganas tú porque tienen que cobrar y y también cambiar el mindset de que como tu medio
+CBNnoticias: S.
+Luis (Luis Nino): no representa mayor cosa, no sé que eh ay cobrar lo que puedan o lo que ofrezcan o a ver, mirar qué ofrecen.
+CBNnoticias: Mhm.
+Luis (Luis Nino): Eso no se puede porque al fin de cuentas cuando usted fue a la universidad, usted pagó su universidad, si ha estudiado una universidad pública, una universidad privada, la que sea,
+CBNnoticias: Claro, un costo.
+Luis (Luis Nino): tuvo que pagar de alguna forma,
+CBNnoticias: Sí,
+Luis (Luis Nino): tuvo que pagar. Y cuando estuvo en los noticieros tuvo que sufrir un montón de cosas para adquirir la experiencia que
+
+
+
+
+00:53:45
+
+
+CBNnoticias: claro.
+Luis (Luis Nino): obtiene y más los 15 años que ha estado aquí para crear la credibilidad que tiene y sostener eso en 15 años es muy difícil.
+CBNnoticias: H, sí.
+Luis (Luis Nino): Cara vez una persona dura en en el mismo cargo. Entonces, bueno, no quiero extenderme más. Qué pena contigo. Suelo hablar mucho. Entonces,
+CBNnoticias: No, no, tranquilo, hágale.
+Luis (Luis Nino): dejémoslo por ahí y yo me me concentro en el otro tema y miramos a ver qué puedo hacer yo con
+CBNnoticias: Eh,
+Luis (Luis Nino): lo que sé y le doy le doy una oferta a ver qué dice usted.
+CBNnoticias: listo. Sí. Hágale. Vea que si. Hm. Es decir, son son las dos cosas que yo necesito. Sí. ¿Qué hacer? ¿Qué sé hacer yo? Contenido y yo sé la mis vaina periodística. usted sabe armar esta estructura y me está hablando de lo que se puede hacer con la parte de marketing, de vender ese producto. Entonces, hágame un una oferta y la miramos. Me interesa mucho ya lo que me has dicho. Y si por ahí podemos sacarle plata a esto, lo hacemos.
+
+
+
+
+00:55:00
+
+
+Luis (Luis Nino): Vale,
+CBNnoticias: Lo hacemos.
+Luis (Luis Nino): José,
+CBNnoticias: Entonces,
+Luis (Luis Nino): o sea, gusto es tu nombre,
+CBNnoticias: sí.
+Luis (Luis Nino): ¿cierto?
+CBNnoticias: José Augusto. José Augusto Marín.
+Luis (Luis Nino): ¿Y cómo te gusta que te
+CBNnoticias: No,
+Luis (Luis Nino): digan
+CBNnoticias: José Augusto. Sí, José Augusto.
+Luis (Luis Nino): José Augusto? Me dices a mí, Luis.
+CBNnoticias: Eh,
+Luis (Luis Nino): Eso es,
+CBNnoticias: o o cómo no sé cómo te gusta
+Luis (Luis Nino): ¿no? Luis, Luis es perfecto.
+CBNnoticias: digas.
+Luis (Luis Nino): O sea, mi nombre completo es Luis Gabriel. Mucho tiempo, casi toda mi niñez y que eran parte de la me decían Lucho, me gustaba,
+CBNnoticias: Ajá.
+Luis (Luis Nino): pero no era, pero la gente, bueno, yo no sé, hay unos como que lo miran raro, no sé. Y el Luis me encanta porque es muy fácil y esto en todos los idiomas del mundo, ya lo comprobé aquí,
+CBNnoticias: Mhm.
+Luis (Luis Nino): es muy fácil el Luis y crea un poder de recordación terrible porque es
+CBNnoticias: Mhm.
+Luis (Luis Nino): cortico y fácil de recordar.
+CBNnoticias: Mhm.
+Luis (Luis Nino): Luis viene de una,
+CBNnoticias: Mhm. Mhm.
+Luis (Luis Nino): entonces por eso me gustó. Listo, José Augusto,
+CBNnoticias: S.
+Luis (Luis Nino): entonces que vamos así. Me voy a poner a trabajar con esto,
+CBNnoticias: Mhm.
+Luis (Luis Nino): mirar a ver, examinar todos los datos que tengo, a ver qué qué es lo que más nos conviene a los dos y si hay algo que haga sentido, pues yo te yo te cuento y vamos a hablar.
+CBNnoticias: Listo.
+Luis (Luis Nino): ¿Listo?
+CBNnoticias: Perfecto, perfecto. Hagámosle,
+Luis (Luis Nino): Buen día,
+CBNnoticias: hermano.
+Luis (Luis Nino): que pases buen fin de semana.
+CBNnoticias: Igualmente,
+Luis (Luis Nino): Đ
+CBNnoticias: cuídate mucho. Chao. Vale.
+
+
+
+
+La transcripción finalizó después de 00:56:29
+
+
+Esta transcripción editable se generó por computadora y puede contener errores. Los usuarios también pueden cambiar el texto después de que se cree.

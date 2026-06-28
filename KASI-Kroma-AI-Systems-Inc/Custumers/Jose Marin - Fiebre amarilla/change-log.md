@@ -13,3 +13,10 @@ Registro de Control de Cambios y Mutaciones Documentales de la Cuenta.
 - Archivo `analisis-competencia-cbn-noticias.md` actualizado con el mapeo detallado de competidores nacionales (Correo Canadiense, Diario El Popular, La Portada) y locales (Vive Vancouver, Latincouver), matriz comparativa técnica, análisis de Core Web Vitals y recomendaciones tácticas Sandler para la reunión de calificación del domingo.
 - Archivo `modelo-negocio-cbn-noticias.md` conteniendo el análisis de modelo de negocio (monetización por pauta y patrocinios), correlación técnica de Web Vitals con pérdida de CTR y recomendaciones de monetización para el domingo.
 - Archivo `presentacion-diagnostico-cbn.md` que condensa los análisis de SEO, competencia y modelo de negocio en una estructura de diapositivas amigables bajo la metodología de ventas de Sandler.
+
+## [2026-06-28]
+### Agregado
+- Archivos de notas de la reunión `Reunión José Check web site - 2026_06_28 08_54 PDT - Notes by Gemini (Spanish).txt` y `Reunión José Check web site - 2026_06_28 08_54 PDT - Notes by Gemini (Spanish) (1).txt` con la transcripción y el resumen de la reunión por Google Meet.
+
+### Modificado
+- Archivo `jose-marin-cbn-noticias.md` actualizado con todos los datos reales verificados en la sesión de calificación Sandler (impacto de la Ley C-18 de Meta, problemas del diseño "chorrera" de WordPress, ingresos anuales de $2k, rol de decisión y plan comercial).
