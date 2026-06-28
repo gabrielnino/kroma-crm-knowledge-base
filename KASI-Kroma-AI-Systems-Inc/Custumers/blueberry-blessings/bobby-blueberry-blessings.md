@@ -29,8 +29,10 @@ KASI utiliza el perfil híbrido de Luis Gabriel Niño (Ingeniero de Sistemas con
 *   **Disponibilidad:** 40+ horas semanales (inmediata). Limitación los martes y jueves: disponible solo hasta las 5:00 PM debido a compromisos previos de trabajo.
 *   **Hitos de Contacto (26 de Junio):** 
     1.  *10:24 AM:* Correo enviado a `tastyblueberries@gmail.com` adjuntando el CV híbrido enfocado en eficiencia, analítica de datos, SEO local y experiencia física de Modena.
-    2.  *Entrevista:* Formulario oficial PDF enviado y radicado con Bobby detallando la experiencia y la disposición para la labor pesada y digital.
-    3.  *Confirmación de Recepción:* Bobby responde vía mensaje de texto indicando que revisará la información recibida (en espera de comentarios).
+    2.  *11:00 AM:* Formulario oficial PDF enviado y radicado con Bobby detallando la experiencia y la disposición para la labor física y digital.
+    3.  *11:15 AM:* SMS enviado a Bobby compartiendo el portafolio tecnológico, el concepto visual de `blueberryblessings.org` y proyectos previos locales (`fiestaco.today`, `rimrevive.store`, `bcpoolsafety.com`).
+    4.  *Respuesta de Bobby:* Bobby responde por mensaje de texto: *"Thanks Luis. I will review them today."*
+    5.  *Estado al 28 de Junio:* Han transcurrido 48 horas sin mensajes de seguimiento adicionales. Bobby está operando bajo el impacto del inicio de la cosecha y el retraso del evento del fin de semana debido a la lluvia.
 
 ## 5. PLAN DE SEGUIMIENTO TÉCNICO Y COMERCIAL (PASO A PASO)
 
