@@ -17,7 +17,8 @@ Registro de Control de Cambios y Mutaciones Documentales de la Cuenta.
 ## [2026-06-28]
 ### Agregado
 - Archivos de notas de la reunión `Reunión José Check web site - 2026_06_28 08_54 PDT - Notes by Gemini (Spanish).txt` y `Reunión José Check web site - 2026_06_28 08_54 PDT - Notes by Gemini (Spanish) (1).txt` con la transcripción y el resumen de la reunión por Google Meet.
-- Archivo `propuestas-comerciales-cbn.md` conteniendo tres alternativas de propuestas de negocio bidireccionales y de bajo costo inicial diseñadas bajo la metodología Sandler.
+- Archivo `propuestas-comerciales-cbn.md` conteniendo tres alternativas de propuestas de negocio de bajo costo inicial diseñadas bajo la metodología Sandler.
+- Archivo `estimaciones-trafico-seo.md` conteniendo el análisis y proyecciones matemáticas de crecimiento de tráfico SEO orgánico a 1, 3, 6 y 12 meses tras la migración a Astro.
 
 ### Modificado
 - Archivo `jose-marin-cbn-noticias.md` actualizado con todos los datos reales verificados en la sesión de calificación Sandler (impacto de la Ley C-18 de Meta, problemas del diseño "chorrera" de WordPress, ingresos anuales de $2k, rol de decisión y plan comercial).
