@@ -37,7 +37,7 @@ CBN Noticias opera actualmente bajo una arquitectura **Single Page Application (
 3. **Ausencia de Infraestructura de Monetización:** No existen *slots* definidos en el DOM para Google Ad Manager o programática, lo que representa un costo de oportunidad diario (Cero ingresos web).
 
 **Oportunidades y Prioridad de Reconstrucción:**
-La reconstrucción es de **Prioridad Crítica**. Migrar a una arquitectura moderna (Next.js + Headless CMS) permitirá resolver instantáneamente los problemas de indexación, abrir vías de monetización y automatizar el flujo editorial, posicionando a CBN Noticias como un competidor técnico de primer nivel en el mercado hispano-canadiense.
+La reconstrucción es de **Prioridad Crítica**. Migrar a una arquitectura moderna (Astro + Supabase) permitirá resolver instantáneamente los problemas de indexación, abrir vías de monetización y automatizar el flujo editorial, posicionando a CBN Noticias como un competidor técnico de primer nivel en el mercado hispano-canadiense.
 
 **Semáforo Ejecutivo:**
 🔴 **Estado SEO / Indexación:** Crítico (Arquitectura bloqueante).
@@ -151,13 +151,12 @@ Al comparar CBN Noticias con medios modernos (ej. The Verge, Vulture, o medios h
 
 ## CAPÍTULO 11: Propuesta de Reconstrucción
 
-Se propone abandonar la arquitectura SPA actual y migrar a un **Stack Composable (Headless)** estándar en la industria de medios digitales 2026:
+Se propone abandonar la arquitectura SPA actual y migrar a un **Stack Composable (Headless)** moderno:
 
-* **Frontend Framework:** **Next.js** (App Router). Permite Server-Side Rendering (SSR) e Incremental Static Regeneration (ISR). Las noticias se renderizan en el servidor, entregando HTML puro a Googlebot instantáneamente.
-* **Headless CMS:** **Sanity** o **Strapi**. Proporcionan un panel editorial profesional, flujos de revisión, versionado y modelado de datos complejo (Autores, Tags, Categorías).
-* **Hosting & Edge:** **Vercel**. Optimización automática de imágenes, caché global en el Edge y analíticas nativas.
-* **Base de Datos:** PostgreSQL (integrada con el CMS).
-* **Monetización:** Integración nativa de Google Ad Manager (GAM) con componentes de Next.js que evitan el *Layout Shift* (CLS).
+* **Frontend Framework:** **Astro** (Generación Estática e Incremental - SSG/ISR). Las noticias se pre-renderizan como HTML puro y ultrarrápido, entregando tiempos de carga instantáneos a Googlebot y a los lectores móviles.
+* **Backend & Base de Datos:** **Supabase (PostgreSQL)** para almacenar de forma segura la base de datos de más de 1,100 artículos recuperados y gestionar suscriptores de forma ágil.
+* **Hosting & Deploy:** **Netlify** para un despliegue optimizado, analíticas de borde y caché global instantánea.
+* **Monetización:** Integración nativa de slots asíncronos para Google Ad Manager sin causar saltos de diseño (CLS).
 
 **Valor Aportado:**
 Esta arquitectura resuelve de raíz el problema de indexación, genera URLs limpias, habilita sitemaps y RSS dinámicos, y prepara el terreno para modelos de suscripción futuros.
@@ -170,12 +169,12 @@ Esta arquitectura resuelve de raíz el problema de indexación, genera URLs limp
 * *Objetivos:* Definir taxonomía, migración de datos y flujos editoriales.
 * *Entregables:* Esquema de base de datos, Wireframes UI.
 
-**Fase 2: Setup Headless CMS & Backend (Semanas 3-4)**
-* *Objetivos:* Configurar Sanity/Strapi, migrar artículos históricos desde Supabase.
-* *Entregables:* CMS funcional con datos reales.
+**Fase 2: Setup de Base de Datos y Backend (Semanas 3-4)**
+* *Objetivos:* Configurar Supabase, migrar y recuperar las más de 1,100 noticias del histórico de WordPress.
+* *Entregables:* Base de datos Supabase funcional con datos históricos migrados.
 
-**Fase 3: Desarrollo Frontend Next.js (Semanas 5-8)**
-* *Objetivos:* Construir el sitio web con SSR, componentes de publicidad y optimización Core Web Vitals.
+**Fase 3: Desarrollo Frontend Astro (Semanas 5-8)**
+* *Objetivos:* Construir el sitio web con Astro, componentes de publicidad y optimización de velocidad (LCP < 1.0s).
 * *Entregables:* Sitio web navegable en entorno de Staging.
 
 **Fase 4: SEO, Sindicación y QA (Semanas 9-10)**
@@ -199,7 +198,7 @@ Esta arquitectura resuelve de raíz el problema de indexación, genera URLs limp
 
 ## CAPÍTULO 14: ROI de la Reconstrucción
 
-El impacto estimado (no garantizado) de la migración a Next.js + Headless CMS incluye:
+El impacto estimado (no garantizado) de la migración a Astro + Supabase incluye:
 
 * **Indexación y Visibilidad:** Indexación en minutos (vs días). Probabilidad alta de inclusión en Google News y Google Discover.
 * **Velocidad y Core Web Vitals:** Mejora del LCP y eliminación del CLS en artículos. Aprobación del 100% en Search Console.
@@ -221,10 +220,10 @@ El portal es un prototipo funcional (SPA/CSR) que ha tocado su techo técnico. S
 5. Flujo editorial acoplado y sin espacios publicitarios.
 
 **¿Debe reconstruirse el portal o evolucionar el existente?**
-**Debe reconstruirse.** Modificar una SPA en Vanilla JS para soportar SSR, RSS y Ads es más costoso y frágil que migrar a un framework moderno diseñado específicamente para este propósito (Next.js).
+**Debe reconstruirse.** Modificar una SPA en Vanilla JS para soportar SSR, RSS y Ads es más costoso y frágil que migrar a un framework moderno diseñado específicamente para este propósito (Astro).
 
 **Recomendaciones Priorizadas:**
 * **Críticas (0-30 días):** Aprobar el proyecto de *re-platforming*. Asegurar la base de datos actual (RLS en Supabase).
-* **Alta Prioridad (1-3 meses):** Ejecutar la migración a Next.js + Sanity/Strapi. Configurar Google Publisher Center.
+* **Alta Prioridad (1-3 meses):** Ejecutar la migración a Astro + Supabase, recuperando las más de 1,100 noticias históricas. Configurar Google Publisher Center.
 * **Mediano Plazo (3-6 meses):** Activar Google Ad Manager y optimizar Core Web Vitals en producción.
-* **Evolución Estratégica (6-24 meses):** Implementar un modelo de suscripción (Paywall / Membresías) y Newsletters automatizados.
+* **Evolución Estratégica (6-24 meses):** Implementar un modelo de suscripción (Guía Comercial / Directorio) y Newsletters automatizados.

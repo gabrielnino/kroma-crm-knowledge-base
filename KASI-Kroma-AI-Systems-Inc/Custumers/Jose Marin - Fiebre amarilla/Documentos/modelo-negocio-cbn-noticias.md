@@ -132,7 +132,7 @@ La infraestructura tecnológica actual de CBN Noticias (SPA con renderizado en c
 
 ## CAPÍTULO 9: Estrategia de Crecimiento (3 Años)
 
-* **Año 1: Fundaciones y Tráfico Orgánico.** Reconstrucción tecnológica (Next.js + CMS). Habilitar SSR, RSS y Schema.org. Objetivo: Multiplicar el tráfico orgánico x3 al entrar en Google News. Activar Google Ad Manager.
+* **Año 1: Fundaciones y Tráfico Orgánico.** Reconstrucción tecnológica (Astro + CMS). Habilitar SSR, RSS y Schema.org. Objetivo: Multiplicar el tráfico orgánico y re-indexar el histórico completo de más de 1,100 artículos al ingresar en Google News. Activar Google Ad Manager.
 * **Año 2: Captura de Valor B2B.** Lanzamiento del "Directorio Comercial Hispano" y venta de "Branded Content" a firmas de inmigración y real estate. Crecimiento del Newsletter diario.
 * **Año 3: Diversificación.** Expansión a formatos multimedia integrados (Podcast patrocinado) y eventos comunitarios locales auspiciados por marcas canadienses.
 
@@ -195,10 +195,10 @@ KASI tiene la oportunidad de posicionarse no como un proveedor web, sino como el
 No. Operar un medio de comunicación sin una infraestructura de monetización automatizada y bloqueado para el tráfico orgánico (Google News) es insostenible financieramente.
 
 **¿Cómo puede la tecnología incrementar los ingresos?**
-Una plataforma moderna (Next.js + Headless CMS) habilitará la inserción de anuncios sin penalizar la experiencia, permitirá indexar miles de artículos en Google, y facilitará la captura de correos para un Newsletter patrocinable. **La tecnología es el habilitador directo de los ingresos.**
+Una plataforma moderna (Astro + Headless CMS) habilitará la inserción de anuncios sin penalizar la experiencia, permitirá indexar miles de artículos en Google, y facilitará la captura de correos para un Newsletter patrocinable. **La tecnología es el habilitador directo de los ingresos.**
 
 **Plan de Acción (Próximos 90 días):**
-1. Aprobar la reconstrucción arquitectónica con KASI.
+1. Aprobar la reconstrucción arquitectónica con KASI en Astro + Supabase.
 2. Definir el inventario publicitario (espacios para banners) durante la fase de diseño UI.
 3. Crear un *Media Kit* básico y comenzar a prospectar firmas de inmigración locales mientras se desarrolla el nuevo portal.
-4. Migrar la base de datos actual a la nueva infraestructura sin perder el histórico de noticias.
+4. Migrar la base de datos actual a la nueva infraestructura recuperando las más de 1,100 noticias históricas.

@@ -59,30 +59,30 @@
 
 | Plazo Temporal | Tráfico Estimado (Visitas/Mes) | Canal Principal de Captación | Estado de Indexación / Meta |
 | :--- | :--- | :--- | :--- |
-| **Mes 1 (Lanzamiento)** | ~2,500 | Búsquedas de nicho local + WhatsApp estructurado[cite: 2]. | Indexación base en Google Search Console activa[cite: 3]. |
-| **Mes 3** | ~7,000 | Indexación orgánica estable de la sección de Inmigración[cite: 2]. | Aprobación y aparición regular en Google News[cite: 5]. |
-| **Mes 6** | ~18,000 | Efecto clúster semántico de palabras clave "Inmigración BC"[cite: 1]. | Tráfico recurrente automatizado vía Google Discover móvil[cite: 5]. |
-| **Mes 12** | **~35,000** | Dominio de tráfico local en BC + Inbound de Latam[cite: 2]. | **Captura del 15% del mercado local caliente de BC**[cite: 2]. |
+| **Mes 1 (Lanzamiento)** | ~14,400 | Recuperación e indexación del histórico de 1,100 notas + 100 nuevas[cite: 2]. | Re-indexación completa en Google Search Console activa[cite: 3]. |
+| **Mes 3** | ~16,800 | Indexación en Google News de 300 notas nuevas en total[cite: 2]. | Aprobación y aparición regular en Google News[cite: 5]. |
+| **Mes 6** | ~20,400 | Clústers semánticos en categoría Inmigración y Tráfico Discover[cite: 1]. | Tráfico recurrente automatizado vía Google Discover móvil[cite: 5]. |
+| **Mes 12** | **~27,600** | Tráfico local consolidado (Vancouver/BC) + Inbound de Latam[cite: 2]. | **Captura de más del 40% de la audiencia hispana de BC**[cite: 2]. |
 
-> *Nota de Viabilidad:* El crecimiento SEO es un activo acumulativo. Cada nota estructurada (Evergreen) sigue traccionando visitas meses después de su publicación[cite: 5].
+> *Nota de Viabilidad:* Al recuperar el histórico de 1,100 artículos del dominio antiguo (>8 años), Google indexará el contenido de inmediato bajo Astro, multiplicando el tráfico desde el primer mes.
 
 ---
 
 # Slide 7: Proyecciones Financieras: Escenario Moderado (Mes 12)
 ## Transformación del Tráfico Auditado en Flujo de Caja (Valores en USD)
 
-* **Publicidad Programática (GAM):** 35,000 páginas vistas/mes con un RPM promedio de **$6.00 USD** $\rightarrow$ **$210.00 USD/mes**[cite: 6].
-* **Patrocinios Directos B2B:** 3 Clientes corporativos fijos (Abogados de Inmigración, Realtors, Escuelas) a un Fee mensual de $400.00 USD c/u $\rightarrow$ **$1,200.00 USD/mes**[cite: 6, 8].
-* **Publirreportajes (Branded Content):** 2 Artículos patrocinados al mes con una tarifa de $250.00 USD por nota $\rightarrow$ **$500.00 USD/mes**[cite: 6].
-* **Newsletter Patrocinado:** 4 Envíos mensuales al boletín con mención fija de $100.00 USD por envío $\rightarrow$ **$400.00 USD/mes**[cite: 6].
+* **Publicidad Programática (AdSense):** 41,400 páginas vistas/mes con un CPM promedio de **$3.50 USD** $\rightarrow$ **$144.90 USD/mes**[cite: 6].
+* **Patrocinios Directos B2B:** 5 Clientes corporativos fijos a $250.00 USD c/u $\rightarrow$ **$1,250.00 USD/mes**[cite: 6, 8].
+* **Directorio Comercial (Membresías):** 10 Negocios locales a $30.00 USD c/u $\rightarrow$ **$300.00 USD/mes**[cite: 6].
+* **Publirreportajes (Branded Content):** 2 Artículos patrocinados al mes a $150.00 USD c/u $\rightarrow$ **$300.00 USD/mes**[cite: 6].
 
 ### 📊 Resumen Financiero Base al Mes 12
-* **Ingreso Mensual Bruto:** **$2,310.00 USD**
-* **Ingreso Anual Proyectado:** **$27,720.00 USD**
+* **Ingreso Mensual Bruto:** **$1,994.90 USD**
+* **Ingreso Anual Proyectado:** **$23,938.80 USD**
 
 ### 🤝 Distribución bajo el Esquema de Riesgo Compartido (70/30)
-* **Kroma (70%):** **$1,617.00 USD/mes** (Cubre el soporte técnico de por vida, la optimización SEO diaria y la fuerza de ventas activa)[cite: 6, 8].
-* **José Marín (30%):** **$693.00 USD/mes** (Multiplica por 4 tu rendimiento anual actual haciendo únicamente lo que te apasiona: el periodismo de rigor)[cite: 6, 8].
+* **Kroma (70%):** **$1,396.43 USD/mes** (Cubre el soporte técnico de por vida, la optimización SEO diaria y la fuerza de ventas activa)[cite: 6, 8].
+* **José Marín (30%):** **$598.47 USD/mes** (Multiplica por 4 tu rendimiento anual actual haciendo únicamente lo que te apasiona: el periodismo de rigor)[cite: 6, 8].
 
 ---
 

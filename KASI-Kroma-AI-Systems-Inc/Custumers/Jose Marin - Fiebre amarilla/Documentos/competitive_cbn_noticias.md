@@ -38,7 +38,7 @@ El mercado de medios digitales para la comunidad hispana en Canadá se encuentra
 2. Medios en inglés que cubren noticias locales con inmediatez.
 
 **Oportunidades:** 
-Existe un "Océano Azul" para un medio hiperlocal en español con tecnología moderna (SSR/Next.js) que domine Google News y monetice a través de programática y patrocinios B2B.
+Existe un "Océano Azul" para un medio hiperlocal en español con tecnología moderna (Astro + Supabase) que domine Google News y monetice a través de programática y patrocinios B2B.
 
 **Semáforo Estratégico:**
 🔴 **Posicionamiento SEO vs Competencia:** Crítico (CBN está perdiendo tráfico diario por falta de indexación).
@@ -129,7 +129,7 @@ Al depender de Client-Side Rendering (CSR), CBN Noticias no compite en el mismo 
 | **Performance** | Rápida pero frágil | Lenta (Bloqueos JS/CSS) | Ultra rápida |
 | **Escalabilidad** | Baja | Media | Muy Alta |
 
-*Conclusión:* Para competir con medios en inglés por la atención del hispano bilingüe, CBN debe adoptar una arquitectura Headless (Next.js) similar a la de *Vancouver Is Awesome*.
+*Conclusión:* Para competir con medios en inglés por la atención del hispano bilingüe, CBN debe adoptar una arquitectura Headless (Astro) similar a la de *Vancouver Is Awesome*.
 
 ---
 
@@ -166,7 +166,7 @@ Al depender de Client-Side Rendering (CSR), CBN Noticias no compite en el mismo 
 * Cero monetización web.
 
 **Oportunidades:**
-* Migrar a Next.js para dominar Google News en español en Canadá.
+* Migrar a Astro + Supabase para dominar Google News en español en Canadá y recuperar el histórico de 1,100 notas.
 * Crear un Directorio Comercial Hispano para robar anunciantes a medios tradicionales.
 
 **Amenazas:**
@@ -180,13 +180,13 @@ Al depender de Client-Side Rendering (CSR), CBN Noticias no compite en el mismo 
 Medios tradicionales (WordPress lentos, banners invasivos) o influencers (videos virales sin rigor periodístico).
 
 **El Océano Azul de CBN Noticias:**
-Convertirse en una **Plataforma de Utilidad Periodística**. No solo dar la noticia, sino conectar la noticia con el servicio. (Ej. Noticia: "Nuevas leyes de inmigración" ➔ Call to Action: "Directorio de Abogados de Inmigración de Confianza"). Todo bajo una plataforma ultra-rápida (Next.js) sin banners intrusivos, priorizando el contenido patrocinado nativo.
+Convertirse en una **Plataforma de Utilidad Periodística**. No solo dar la noticia, sino conectar la noticia con el servicio. (Ej. Noticia: "Nuevas leyes de inmigración" ➔ Call to Action: "Directorio de Abogados de Inmigración de Confianza"). Todo bajo una plataforma ultra-rápida (Astro) sin banners intrusivos, priorizando el contenido patrocinado nativo.
 
 ---
 
 ## CAPÍTULO 13: Oportunidades Estratégicas
 
-1. **SEO:** Migrar a SSR (Next.js) para entrar a Google News.
+1. **SEO:** Migrar a SSR/SSG (Astro) para entrar a Google News y recuperar el histórico de 1,100 notas.
 2. **Monetización:** Lanzar "CBN Business" (Directorio comercial por suscripción mensual).
 3. **Newsletter:** Lanzar "El Resumen de Vancouver", un boletín diario patrocinable (Modelo *Morning Brew*).
 4. **Comunidad:** Crear un portal de empleos locales verificado.
@@ -196,7 +196,7 @@ Convertirse en una **Plataforma de Utilidad Periodística**. No solo dar la noti
 
 ## CAPÍTULO 14: Roadmap Competitivo
 
-* **0–90 días:** Reconstrucción tecnológica (Next.js + CMS). Reparación de RSS y Sitemaps.
+* **0–90 días:** Reconstrucción tecnológica (Astro + Supabase) y recuperación del histórico de más de 1,100 noticias.
 * **3–6 meses:** Entrada a Google News y Discover. Lanzamiento del Newsletter.
 * **6–12 meses:** Comercialización de patrocinios B2B (Abogados, Realtors).
 * **12–24 meses:** Lanzamiento del Directorio Comercial y Portal de Empleos.
@@ -231,7 +231,7 @@ En el corto plazo, los creadores de contenido en TikTok que monopolizan la atenc
 Todo el tráfico de búsqueda orgánica (Google News/Discover) y el presupuesto publicitario de los negocios hispanos en BC.
 
 **Acciones con mayor retorno (ROI):**
-1. **Reconstrucción a Next.js/SSR:** Desbloquea el SEO instantáneamente.
+1. **Reconstrucción a Astro/SSR:** Desbloquea el SEO de forma instantánea al recuperar las 1,100 notas históricas.
 2. **Generación de RSS Feed:** Permite sindicación y automatización.
 3. **Creación de Media Kit B2B:** Iniciar la venta de espacios patrocinados.
 4. **Lanzamiento de Newsletter:** Captura de correos para retención directa.

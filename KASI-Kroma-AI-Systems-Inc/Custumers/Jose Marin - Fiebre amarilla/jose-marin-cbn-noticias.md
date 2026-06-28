@@ -16,17 +16,17 @@ La reunión formal de 30 minutos se llevó a cabo el domingo 28 de junio a las 9
 ## 2. MATRIZ DE CALIFICACIÓN SANDLER (VERIFICADA)
 
 ### A. DOLOR (PAIN) - Altamente Calificado
-1. **Pérdida del Historial de Búsquedas (El "Efecto Chorrera"):** 
-   * *El Dolor:* El desarrollador anterior configuró una plantilla básica de WordPress que muestra todos los artículos en una sola lista vertical infinita. Esto destruyó la estructura de URLs individuales indexables. 
-   * *El Impacto:* Anteriormente, los usuarios buscaban en Google (ej. *"casos de extorsión en Surrey CBN Noticias"*) y llegaban directamente a la nota. Hoy, esa indexación histórica se ha roto; los usuarios no pueden buscar notas antiguas y José tiene que buscar manualmente haciendo scroll infinito.
-2. **El Bloqueo de Meta en Canadá (Ley C-18 / Online News Act):**
-   * *El Dolor:* Debido al conflicto legal entre el Gobierno Federal de Canadá y Meta, la compartición de enlaces periodísticos está bloqueada en Facebook e Instagram en todo el país.
-   * *El Impacto:* Antes del bloqueo, CBN Noticias alcanzaba de **10,000 a 15,000 visualizaciones en un par de horas** al compartir sus notas en 50-60 grupos latinos. Tras la restricción, el tráfico directo desde redes colapsó casi a cero.
-3. **Distribución Manual Ineficiente:**
-   * *El Dolor:* José se ve obligado a compartir enlaces uno a uno por WhatsApp para mantener activa a su audiencia.
-   * *El Impacto:* WhatsApp limita el envío a 5 contactos a la vez, por lo que José gasta **de 1 a 2 horas diarias** de forma manual para lograr que apenas 300 o 400 personas lean una noticia.
-4. **Frustración con Desarrolladores Previos:**
-   * *El Dolor:* Ha trabajado con freelancers en Cali y Manizales. Le entregaron plantillas de WordPress gratis, rígidas y mal configuradas, y cobraban o hacían de mala gana tareas sencillas como integrar audio/video.
+1. **Pérdida del Historial de Búsquedas (El "Efecto Chorrera" y Artículos Huérfanos):** 
+   * *El Dolor:* El desarrollador anterior configuró una plantilla básica de WordPress que muestra los artículos en un scroll infinito. Esto destruyó la estructura de URLs individuales indexables. Además, en la reciente migración a Netlify/Supabase, **solo se migraron 147 artículos de un total de más de 1,100 artículos publicados históricos**, dejando el resto huérfanos y rotos.
+   * *El Impacto:* Los usuarios no pueden encontrar notas históricas en Google, lo que destruyó la autoridad SEO acumulada durante los más de 8 años de antigüedad del dominio.
+2. **Pérdida de Accesos Administrativos por Enrutamiento de Netlify:**
+   * *El Dolor:* El apuntamiento del dominio principal de Netlify rompió las rutas de WordPress y del servidor, impidiendo que José pueda entrar a `wp-admin` para editar noticias o a `cpanel` para monitorear el comportamiento de la página.
+3. **El Bloqueo de Meta en Canadá (Ley C-18 / Online News Act):**
+   * *El Dolor:* Las restricciones de distribución de noticias en Facebook e Instagram en todo Canadá eliminaron un canal que antes le otorgaba a CBN **de 10,000 a 15,000 visualizaciones por nota** en pocas horas.
+4. **Distribución Manual Ineficiente:**
+   * *El Dolor:* José gasta **de 1 a 2 horas diarias** compartiendo enlaces de 5 en 5 contactos en WhatsApp para alcanzar de forma manual a apenas 300 o 400 lectores.
+5. **Frustración con Desarrolladores Previos:**
+   * *El Dolor:* Freelancers anteriores le cobraban extra por cambios sencillos y le entregaban plantillas mal configuradas.
 
 ### B. DECISIÓN (DECISION) - Calificada
 * **Tomador de Decisiones Único:** José Augusto Marín es el propietario exclusivo y quien toma todas las decisiones financieras y editoriales de CBN Noticias.
@@ -59,7 +59,7 @@ El nuevo sitio web debe cumplir con los siguientes requerimientos levantados en 
 
 * **Riesgo de Presupuesto Tradicional:** El cliente no dispone de un flujo de caja alto en CBN ($2,000/año actuales). Intentar venderle un desarrollo de software corporativo estándar de $5,000 USD de pago único resultará en una pérdida de la oportunidad.
 * **Mitigación de Riesgo (La Alternativa KASI):** Estructurar una propuesta de **Desarrollo + Alianza de Crecimiento** o una propuesta escalonada. Una opción viable es un costo base de desarrollo web ágil (utilizando la velocidad de Astro) combinado con un modelo de soporte o una estrategia de marketing conjunta donde KASI capture un porcentaje de los nuevos anunciantes que ingresen gracias al aumento verificado de tráfico mediante SEO.
-* **Riesgo Tecnológico (Meta Block):** Depender de redes sociales tradicionales en Canadá para tráfico está descartado. El SEO de Google (búsqueda orgánica de inmigración y noticias locales) es el único canal viable para revivir el tráfico (apuntar a la proyección estimada de 6,000 a 10,000 visitas mensuales en mercados de México, EE.UU. y Canadá).
+* **Riesgo Tecnológico (Meta Block):** Depender de redes sociales tradicionales en Canadá para tráfico está descartado. El SEO de Google (búsqueda orgánica de inmigración y noticias locales) es el único canal viable para revivir el tráfico (apuntar a la proyección estimada de **27,600 visitas mensuales** en el escenario moderado al Mes 12).
 
 ---
 

@@ -14,7 +14,7 @@ Tras el diagnóstico técnico detallado y la sesión de calificación del 28 de 
 2. **El Bloqueo de Meta en Canadá (Ley C-18):** La restricción federal eliminó la distribución en Facebook e Instagram, canales que antes generaban entre 10,000 y 15,000 visualizaciones por nota[cite: 8].
 3. **Desgaste Operativo Manual:** Para contrarrestar lo anterior, el editor debe distribuir enlaces uno a uno por WhatsApp, invirtiendo de 1 a 2 horas diarias para alcanzar apenas a 300 o 400 lectores[cite: 8].
 
-**La Oportunidad:** Transformar CBN Noticias de un portal informativo tradicional a una **Plataforma de Utilidad Periodística ultrarrápida (Astro + Supabase)**[cite: 1, 5, 6]. Al eludir la dependencia de Meta mediante SEO Semántico enfocado en Google News y Google Discover, el portal se proyecta para estabilizarse en **35,000 visitas mensuales** al Mes 12, abriendo un canal de monetización B2B directo y escalable[cite: 2, 4, 5].
+**La Oportunidad:** Transformar CBN Noticias de un portal informativo tradicional a una **Plataforma de Utilidad Periodística ultrarrápida (Astro + Supabase)**[cite: 1, 5, 6]. Al eludir la dependencia de Meta mediante SEO Semántico enfocado en Google News y Google Discover, el portal se proyecta para estabilizarse en **27,600 visitas mensuales** (en el escenario moderado) al Mes 12, abriendo un canal de monetización B2B directo y escalable[cite: 2, 4, 5].
 
 ---
 
@@ -53,7 +53,7 @@ Para viabilizar la sociedad, Kroma subsidia este costo inicial, fijando un **Set
 | Hito | Entregable Técnico / Avance | Porcentaje | Monto (CAD) |
 | :--- | :--- | :---: | :---: |
 | **Hito 1: Anticipo** | Firma del acuerdo, inicio del proyecto, diseño de UI/UX y modelado de datos en la infraestructura de Astro[cite: 1, 5]. | 33.33% | **$1,166.66** |
-| **Hito 2: Backend & CMS** | Entrega del backend en Supabase, migración completa del histórico de noticias y configuración del panel editorial (CMS)[cite: 5, 8]. | 33.33% | **$1,166.67** |
+| **Hito 2: Backend & CMS** | Entrega del backend en Supabase, migración completa del histórico de más de 1,100 noticias y configuración del panel editorial (CMS)[cite: 5, 8]. | 33.33% | **$1,166.67** |
 | **Hito 3: Despliegue** | Despliegue final a producción, validación de meta-tags dinámicos, sitemaps y RSS validados y activos en Google Search Console[cite: 3, 5, 8]. | 33.34% | **$1,166.67** |
 | **TOTAL** | **Infraestructura Core Completada y Operativa**[cite: 5] | **100%** | **$3,500.00** |
 

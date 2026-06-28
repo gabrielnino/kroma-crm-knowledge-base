@@ -35,12 +35,12 @@ graph TD
 
 Al correlacionar el tráfico del portal actual con el tamaño de su audiencia real, identificamos la brecha de oportunidad (Market Share):
 
-| Segmento de Mercado | Tamaño Total del Mercado (Target) | Tráfico Actual de CBN (~1,000 visitas/mes) | Cuota de Mercado Actual | **Tráfico Estimado Mes 12 (~35,000 visitas/mes)** | **Cuota de Mercado Proyectada (Mes 12)** |
+| Segmento de Mercado | Tamaño Total del Mercado (Target) | Tráfico Actual de CBN (~1,000 visitas/mes) | Cuota de Mercado Actual | **Tráfico Estimado Mes 12 (~27,600 visitas/mes)** | **Cuota de Mercado Proyectada (Mes 12)** |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| **Local (Vancouver/BC)** | ~66,000 | ~250 visitas/mes | 0.37% | ~10,000 visitas/mes | **15.15%** |
-| **Nacional (Canadá)** | ~1.19 Millones | ~250 visitas/mes | 0.02% | ~10,000 visitas/mes | **0.84%** |
-| **Internacional (Inbound)** | Millones | ~500 visitas/mes | < 0.01% | ~15,000 visitas/mes | **Niche Growth** |
+| **Local (Vancouver/BC)** | ~66,000 | ~250 visitas/mes | 0.37% | ~8,000 visitas/mes | **12.12%** |
+| **Nacional (Canadá)** | ~1.19 Millones | ~250 visitas/mes | 0.02% | ~8,000 visitas/mes | **0.67%** |
+| **Internacional (Inbound)** | Millones | ~500 visitas/mes | < 0.01% | ~11,600 visitas/mes | **Niche Growth** |
 
 ### Conclusiones del Análisis de Mercado:
 1. **La oportunidad local está virgen:** CBN Noticias apenas captura el 0.37% de la población hispana local de BC debido a que su portal actual está roto para búsquedas móviles rápidas en Google.
-2. **El bloqueo de Meta no es el fin:** Al migrar a Astro y enfocarse en SEO orgánico, CBN puede capturar fácilmente un 15% del mercado local de Vancouver (~10,000 visitas/mes) y un porcentaje del tráfico internacional que busca "inmigración en Vancouver", logrando estabilizar las 35,000 visitas totales sin depender de redes sociales.
+2. **El bloqueo de Meta no es el fin:** Al migrar a Astro y enfocarse en SEO orgánico recuperando las 1,100 notas históricas, CBN puede capturar fácilmente un 12% del mercado local de Vancouver (~8,000 visitas/mes) y un flujo constante de tráfico internacional, logrando estabilizar las 27,600 visitas totales sin depender de redes sociales.
