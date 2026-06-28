@@ -24,3 +24,4 @@ Registro de Control de Cambios y Mutaciones Documentales de la Cuenta.
 
 ### Modificado
 - Archivo `jose-marin-cbn-noticias.md` actualizado con todos los datos reales verificados en la sesión de calificación Sandler (impacto de la Ley C-18 de Meta, problemas del diseño "chorrera" de WordPress, ingresos anuales de $2k, rol de decisión y plan comercial).
+- Reestructuración de la carpeta de cliente agrupando los archivos de soporte en subcarpetas organizadas (`Conversaciones/`, `Documentos/` y `Propuestas/`) para mantener la base de conocimiento limpia y accesible.
