@@ -21,7 +21,10 @@ Registro de Control de Cambios y Mutaciones Documentales de la Cuenta.
 - Archivo `estimaciones-trafico-seo.md` conteniendo el análisis y proyecciones matemáticas de crecimiento de tráfico SEO orgánico a 1, 3, 6 y 12 meses tras la migración a Astro.
 - Archivo `proyecciones-financieras-cbn.md` conteniendo el desglose de ingresos y profit neto en dólares para tres escenarios financieros (conservador, moderado, optimista) al Mes 12.
 - Archivo `analisis-mercado-cbn.md` conteniendo el análisis demográfico y dimensionamiento de la audiencia objetivo local (Vancouver/BC), nacional (Canadá) e internacional de CBN Noticias.
+- Archivo `Propuestas/Alianza-Estrategica-70-30/propuesta-ejecutiva-alianza.md` (originalmente `guion-presentacion.md` provisto por el Estratega) que detalla los términos del modelo de sociedad 70/30 (Setup Fee de $3,500 CAD en tercios y Revenue Share).
+- Archivo `Propuestas/Alianza-Estrategica-70-30/diapositivas-presentacion-alianza.md` (originalmente `presetnacion-propuesta.md` con typo provisto por el Estratega) que contiene el guion de diapositivas Sandler para el pitch de sociedad.
 
 ### Modificado
 - Archivo `jose-marin-cbn-noticias.md` actualizado con todos los datos reales verificados en la sesión de calificación Sandler (impacto de la Ley C-18 de Meta, problemas del diseño "chorrera" de WordPress, ingresos anuales de $2k, rol de decisión y plan comercial).
-- Reestructuración de la carpeta de cliente agrupando los archivos de soporte en subcarpetas organizadas (`Conversaciones/`, `Documentos/` y `Propuestas/`) para mantener la base de conocimiento limpia y accesible.
+- Reestructuración de la carpeta de cliente agrupando los archivos de soporte en subcarpetas organizadas (`Conversaciones/`, `Documentos/` y `Propuestas/`).
+- Renombramiento de la subcarpeta interna `propuesta` a `Alianza-Estrategica-70-30` y asignación de nombres profesionales descriptivos a los archivos de propuesta, corrigiendo errores ortográficos en los títulos.
