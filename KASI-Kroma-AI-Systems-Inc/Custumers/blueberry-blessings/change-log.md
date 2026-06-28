@@ -15,6 +15,7 @@ Registro de Control de Cambios y Mutaciones Documentales de la Cuenta.
 ## [2026-06-28]
 ### Agregado
 - Archivo `bobby-sms-response.txt` conteniendo el mensaje de respuesta de Bobby de confirmación de revisión.
+- Archivo `analisis-sandler-blueberry.md` conteniendo el análisis estratégico de calificación y viabilidad comercial (descalificación o plan de 7 días) bajo la metodología Sandler.
 
 ### Modificado
 - Archivo `bobby-blueberry-blessings.md` actualizado para registrar el envío de portafolio web por SMS, la respuesta de Bobby ("Thanks Luis. I will review them today") y el estado situacional post-cosecha retrasada por lluvia.
