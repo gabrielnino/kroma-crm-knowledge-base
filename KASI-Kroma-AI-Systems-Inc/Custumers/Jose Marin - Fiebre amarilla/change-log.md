@@ -16,16 +16,17 @@ Registro de Control de Cambios y Mutaciones Documentales de la Cuenta.
 
 ## [2026-06-28]
 ### Agregado
-- Archivos de notas de la reunión `Reunión José Check web site - 2026_06_28 08_54 PDT - Notes by Gemini (Spanish).txt` y `Reunión José Check web site - 2026_06_28 08_54 PDT - Notes by Gemini (Spanish) (1).txt` con la transcripción y el resumen de la reunión por Google Meet.
+- Archivos de notas de la reunión `Reunión José Check web site - 2026_06_28 08_54 PDT - Notes by Gemini (Spanish).txt` y `Reunión José Check Leo Check web site...` con la transcripción y el resumen de la reunión por Google Meet.
 - Archivo `propuestas-comerciales-cbn.md` conteniendo tres alternativas de propuestas de negocio de bajo costo inicial diseñadas bajo la metodología Sandler.
 - Archivo `estimaciones-trafico-seo.md` conteniendo el análisis y proyecciones matemáticas de crecimiento de tráfico SEO orgánico a 1, 3, 6 y 12 meses tras la migración a Astro.
 - Archivo `proyecciones-financieras-cbn.md` conteniendo el desglose de ingresos y profit neto en dólares para tres escenarios financieros (conservador, moderado, optimista) al Mes 12.
 - Archivo `analisis-mercado-cbn.md` conteniendo el análisis demográfico y dimensionamiento de la audiencia objetivo local (Vancouver/BC), nacional (Canadá) e internacional de CBN Noticias.
 - Archivo `Propuestas/Alianza-Estrategica-70-30/propuesta-ejecutiva-alianza.md` que detalla los términos del modelo de sociedad 70/30 (Setup Fee de $3,500 CAD en tercios y Revenue Share).
 - Archivo `Propuestas/Alianza-Estrategica-70-30/diapositivas-presentacion-alianza.md` que contiene el guion de diapositivas Sandler para el pitch de sociedad.
-- Archivo `Perfil/perfil-biografico.md` (originalmente `Perfil Biográfico_ José Augusto Marín Mantilla.md` provisto por el Estratega) que recopila su biografía, estudios (Naval, UAN, BCIT) y trayectoria en RCN Radio.
-- Archivo `Perfil/actividad-actual.md` (originalmente `Actividad Actual de José Augusto Marín Mantilla — Periodista Colombiano en Canadá.md` provisto por el Estratega) que registra su producción editorial en 2026 y cobertura destacada del Mundial FIFA y elecciones colombianas en Vancouver.
-- Archivo `Documentos/analisis-antagonismo-cbn.md` conteniendo el informe de resultados del escrutinio de la propuesta del setup fee de $3.5k CAD y el split 70/30 bajo la perspectiva de desconfianza (perfil naval, ético y de bajos ingresos) de José Marín.
+- Archivo `Perfil/perfil-biografico.md` que recopila su biografía, estudios (Naval, UAN, BCIT) y trayectoria en RCN Radio.
+- Archivo `Perfil/actividad-actual.md` que registra su producción editorial en 2026 y cobertura destacada del Mundial FIFA y elecciones colombianas en Vancouver.
+- Archivo `Documentos/analisis-antagonismo-cbn.md` conteniendo el informe de resultados del escrutinio de la propuesta del setup fee de $3.5k CAD y el split 70/30 bajo la perspectiva de desconfianza de José Marín.
+- Archivo `Conversaciones/mensaje-jose-2026-06-28.txt` conteniendo el mensaje oficial de WhatsApp de José Augusto Marín respondiendo a las preguntas de KASI (antigüedad de 8 años del dominio, 100 noticias al mes, más de 1,100 artículos publicados históricos y pérdida de acceso a wp-admin y cPanel por Netlify).
 
 ### Modificado
 - Archivo `jose-marin-cbn-noticias.md` actualizado con todos los datos reales verificados en la sesión de calificación Sandler (impacto de la Ley C-18 de Meta, problemas del diseño "chorrera" de WordPress, ingresos anuales de $2k, rol de decisión y plan comercial).

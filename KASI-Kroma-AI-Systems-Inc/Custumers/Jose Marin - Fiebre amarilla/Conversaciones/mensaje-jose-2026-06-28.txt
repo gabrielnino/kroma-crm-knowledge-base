@@ -1,0 +1,9 @@
+Hola Luis. Te quiero comentar lo siguiente:  el muchacho que hizo la actualización de la página me dijo que había creado un subdominio usando la plataforma Netlify sobre el dominio de cbnnoticias.com 
+Entonces; yo antes podía ver fácilmente toda la información a través del acceso al www.cbnnoticias.com/wp-admin/ desde donde yo subía y editaba las noticias, y, también podía acceder fácilmente al http://cpanel.cbnnoticias.com para ir revisando el comportamiento de la página. Sin embargo, con los cambios que me le hizo a la página ya no puedo ingresar, porque cuando le doy clic me lleva a un sitio no encontrado. 
+Ahora, para contestarte las preguntas: 
+1)	Acceso a Google Search Console, no sé realmente como acceder.
+2)	Sobre el número de artículos en la base de datos. Antes de este último cambio a la página había publicado más de 1,100 artículos 
+3)	El dominio de cbnnoticias.com lo tengo hace más de 8 años 
+4)	El promedio de noticias publicadas al mes es de 100
+
+Quedo atento a cualquier nueva pregunta. Gracias.
