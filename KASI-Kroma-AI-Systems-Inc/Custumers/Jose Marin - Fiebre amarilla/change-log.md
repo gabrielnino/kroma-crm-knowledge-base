@@ -25,6 +25,7 @@ Registro de Control de Cambios y Mutaciones Documentales de la Cuenta.
 - Archivo `Propuestas/Alianza-Estrategica-70-30/diapositivas-presentacion-alianza.md` que contiene el guion de diapositivas Sandler para el pitch de sociedad.
 - Archivo `Perfil/perfil-biografico.md` (originalmente `Perfil Biográfico_ José Augusto Marín Mantilla.md` provisto por el Estratega) que recopila su biografía, estudios (Naval, UAN, BCIT) y trayectoria en RCN Radio.
 - Archivo `Perfil/actividad-actual.md` (originalmente `Actividad Actual de José Augusto Marín Mantilla — Periodista Colombiano en Canadá.md` provisto por el Estratega) que registra su producción editorial en 2026 y cobertura destacada del Mundial FIFA y elecciones colombianas en Vancouver.
+- Archivo `Documentos/analisis-antagonismo-cbn.md` conteniendo el informe de resultados del escrutinio de la propuesta del setup fee de $3.5k CAD y el split 70/30 bajo la perspectiva de desconfianza (perfil naval, ético y de bajos ingresos) de José Marín.
 
 ### Modificado
 - Archivo `jose-marin-cbn-noticias.md` actualizado con todos los datos reales verificados en la sesión de calificación Sandler (impacto de la Ley C-18 de Meta, problemas del diseño "chorrera" de WordPress, ingresos anuales de $2k, rol de decisión y plan comercial).
