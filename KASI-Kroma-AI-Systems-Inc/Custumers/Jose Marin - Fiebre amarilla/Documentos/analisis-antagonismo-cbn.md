@@ -52,6 +52,6 @@ Para cerrar el trato con éxito, Luis Gabriel Niño debe suavizar los términos 
 
 La inyección de confianza definitiva se logra mediante la inclusión de una cláusula contractual de protección total en las diapositivas y la propuesta formal:
 
-* **Retorno Preferencial del Setup Fee:** KASI no cobrará su comisión del 70% desde el inicio. El 100% de los primeros ingresos netos comerciales irán directamente a la cuenta de José hasta amortizar completamente sus **$3,500 CAD** de Setup Fee. Una vez recuperada su inversión de capital, se iniciará el split de revenue share pactado.
+* **Retorno Preferencial Garantizado:** KASI no cobrará su comisión del 70% desde el inicio. El 100% de los primeros ingresos netos comerciales irán directamente a la cuenta de José hasta amortizar completamente la suma de **$5,500 CAD** (cubriendo los $3,500 CAD del Setup Fee más los $2,000 CAD de sus ingresos anuales base históricos para asegurar que él no sufra ninguna pérdida). Una vez cubierto este monto garantizado, se iniciará el split de revenue share pactado.
 * **Escudo de Propiedad Intelectual y Marca:** Se certifica que CBN Noticias, su histórico de 1,100 notas, el dominio `cbnnoticias.com` y cualquier red social asociada pertenecen de forma exclusiva al **100% a José Augusto Marín**.
 * **Protección de Datos:** Envío automatizado mensual de respaldos de la base de datos de Supabase a su email personal para erradicar el miedo al secuestro tecnológico.
