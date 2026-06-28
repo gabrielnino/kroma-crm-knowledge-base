@@ -40,11 +40,18 @@ A continuación, se presenta el análisis del antagonismo interno que experiment
 
 ## 3. CONCLUSIONES ESTRATÉGICAS DE MITIGACIÓN
 
-Para cerrar el trato con éxito el domingo o en la llamada de seguimiento, Luis Gabriel Niño debe suavizar los términos comerciales utilizando las siguientes equivalencias Sandler:
+Para cerrar el trato con éxito, Luis Gabriel Niño debe suavizar los términos comerciales utilizando las siguientes equivalencias Sandler:
 
-1. **Re-negociar el Split a un 60/40 o 50/50 con Hitos de Desempeño:**
-   * Proponer un esquema escalonado: 50% KASI / 50% CBN mientras se recupera la inversión inicial de setup, y luego pasar a un 60/40 o mantener un 50/50 si KASI no logra duplicar el tráfico proyectado. Esto demuestra equidad y respeto militar al esfuerzo del socio editorial.
-2. **Financiar el Setup Fee sin Intereses:**
-   * Permitir que el Setup Fee de $3,500 CAD se pague con el propio flujo de caja generado por los primeros patrocinadores B2B que KASI ingrese al portal.
-3. **El Veto Editorial es Innegociable:**
-   * Garantizar por escrito que José Augusto Marín mantiene el **100% de la dirección editorial y el derecho a veto de anunciantes**, protegiendo su activo más preciado: la credibilidad comunitaria.
+1. **Garantizar por escrito la propiedad del activo:** El dominio, código y bases de datos son del cliente.
+2. **Financiar la barrera del setup fee:** No retener utilidades hasta que el cliente recupere su inversión.
+3. **Mantener el veto de anunciantes:** El cliente es el director editorial soberano.
+
+---
+
+## 4. ESTRATEGIA DEFINITIVA: LA CLÁUSULA DESACTIVADORA DE LA BOMBA
+
+La inyección de confianza definitiva se logra mediante la inclusión de una cláusula contractual de protección total en las diapositivas y la propuesta formal:
+
+* **Retorno Preferencial del Setup Fee:** KASI no cobrará su comisión del 70% desde el inicio. El 100% de los primeros ingresos netos comerciales irán directamente a la cuenta de José hasta amortizar completamente sus **$3,500 CAD** de Setup Fee. Una vez recuperada su inversión de capital, se iniciará el split de revenue share pactado.
+* **Escudo de Propiedad Intelectual y Marca:** Se certifica que CBN Noticias, su histórico de 1,100 notas, el dominio `cbnnoticias.com` y cualquier red social asociada pertenecen de forma exclusiva al **100% a José Augusto Marín**.
+* **Protección de Datos:** Envío automatizado mensual de respaldos de la base de datos de Supabase a su email personal para erradicar el miedo al secuestro tecnológico.

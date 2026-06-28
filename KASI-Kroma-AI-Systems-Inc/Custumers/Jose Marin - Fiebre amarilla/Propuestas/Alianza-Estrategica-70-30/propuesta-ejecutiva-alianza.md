@@ -69,6 +69,16 @@ Una vez completado el Hito 3, Kroma activará el motor comercial bajo el esquema
 
 ---
 
-## 6. ACEPTACIÓN DEL ACUERDO
+## 6. CLÁUSULA DE DESACTIVACIÓN DE RIESGOS (GARANTÍA Y PROTECCIÓN)
+
+Para eliminar cualquier asimetría de riesgo y asegurar la confianza de ambas partes, la alianza se regirá bajo las siguientes salvaguardas legales y operativas:
+
+1. **Protección Absoluta de Activos y Marca:** El dominio `cbnnoticias.com`, la propiedad intelectual de todo el histórico de noticias (1,100 artículos) y cualquier canal social (Facebook, Instagram, YouTube, TikTok) que se administre o cree pertenecen y pertenecerán de forma exclusiva al 100% a José Augusto Marín. Kroma (KASI) solo retiene derechos de co-administración técnica e inserción publicitaria durante la vigencia de la sociedad.
+2. **Retorno Preferencial de Inversión (Garantía de Retorno):** El esquema de distribución de ingresos (70% Kroma / 30% José) **se suspenderá** al inicio de la monetización. El **100% de los primeros ingresos netos** comerciales generados por el portal se destinarán de forma prioritaria a José Augusto Marín hasta que recupere la totalidad de su Setup Fee invertido ($3,500 CAD). Kroma solo percibirá su porcentaje del 70% una vez que José se encuentre en punto de equilibrio financiero.
+3. **Respaldo de Datos Independiente:** Kroma configurará un script automatizado en la base de datos de Supabase que enviará un respaldo en formato CSV/JSON del histórico de artículos y suscriptores a una cuenta de correo personal de José mensualmente, previniendo cualquier riesgo de secuestro técnico de información.
+
+---
+
+## 7. ACEPTACIÓN DEL ACUERDO
 
 Para proceder con la fase de Discovery y el modelado del proyecto en Astro, ambas partes validan los términos de la presente propuesta híbrida[cite: 5].

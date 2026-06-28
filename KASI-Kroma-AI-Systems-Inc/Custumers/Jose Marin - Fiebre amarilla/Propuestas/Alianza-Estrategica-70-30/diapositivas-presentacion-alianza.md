@@ -103,7 +103,16 @@
 
 ---
 
-# Slide 9: Próximos Pasos (Step 5 Sandler)
+# Slide 9: Cláusula de Desactivación de Riesgos
+## Garantía de Protección y Retorno de Inversión
+
+* **Garantía de Retorno Preferencial:** El split de ingresos 70/30 se **congela** al inicio. El **100% de los primeros ingresos comerciales** que KASI genere en el portal irán directo a José hasta que recupere los **$3,500 CAD** de su Setup Fee.
+* **Protección de Marca e Intelectual:** La propiedad absoluta del dominio `cbnnoticias.com`, las 1,100 noticias históricas y cualquier red social nueva o existente pertenecen de forma exclusiva al **100% a José Augusto Marín**.
+* **Antagonismo Técnico Desarmado:** Configuración de respaldos automáticos mensuales de base de datos enviados a tu email personal. Eres dueño de tu información pase lo que pase.
+
+---
+
+# Slide 10: Próximos Pasos (Step 5 Sandler)
 ## ¿Cómo Iniciamos el Desbloqueo Comercial?
 
 * **Beneficios Inmediatos de la Alianza:**
