@@ -32,3 +32,4 @@ Registro de Control de Cambios y Mutaciones Documentales de la Cuenta.
 - Archivo `jose-marin-cbn-noticias.md` actualizado con todos los datos reales verificados en la sesión de calificación Sandler (impacto de la Ley C-18 de Meta, problemas del diseño "chorrera" de WordPress, ingresos anuales de $2k, rol de decisión y plan comercial).
 - Reestructuración de la carpeta de cliente agrupando los archivos de soporte en subcarpetas organizadas (`Conversaciones/`, `Documentos/`, `Propuestas/` y `Perfil/`).
 - Renombramiento de la subcarpeta interna `propuesta` a `Alianza-Estrategica-70-30` y la carpeta `Profile` a `Perfil`, asignando nombres descriptivos a los archivos de propuesta y biografía para eliminar caracteres especiales y errores ortográficos.
+- Archivo `Propuestas/estimaciones-trafico-seo.md` re-calculado y actualizado con las variables reales provistas por José (1,100 artículos, antigüedad del dominio de 8 años y publicación de 100/mes).
