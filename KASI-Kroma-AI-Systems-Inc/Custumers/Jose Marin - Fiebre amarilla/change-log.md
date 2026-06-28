@@ -21,10 +21,12 @@ Registro de Control de Cambios y Mutaciones Documentales de la Cuenta.
 - Archivo `estimaciones-trafico-seo.md` conteniendo el análisis y proyecciones matemáticas de crecimiento de tráfico SEO orgánico a 1, 3, 6 y 12 meses tras la migración a Astro.
 - Archivo `proyecciones-financieras-cbn.md` conteniendo el desglose de ingresos y profit neto en dólares para tres escenarios financieros (conservador, moderado, optimista) al Mes 12.
 - Archivo `analisis-mercado-cbn.md` conteniendo el análisis demográfico y dimensionamiento de la audiencia objetivo local (Vancouver/BC), nacional (Canadá) e internacional de CBN Noticias.
-- Archivo `Propuestas/Alianza-Estrategica-70-30/propuesta-ejecutiva-alianza.md` (originalmente `guion-presentacion.md` provisto por el Estratega) que detalla los términos del modelo de sociedad 70/30 (Setup Fee de $3,500 CAD en tercios y Revenue Share).
-- Archivo `Propuestas/Alianza-Estrategica-70-30/diapositivas-presentacion-alianza.md` (originalmente `presetnacion-propuesta.md` con typo provisto por el Estratega) que contiene el guion de diapositivas Sandler para el pitch de sociedad.
+- Archivo `Propuestas/Alianza-Estrategica-70-30/propuesta-ejecutiva-alianza.md` que detalla los términos del modelo de sociedad 70/30 (Setup Fee de $3,500 CAD en tercios y Revenue Share).
+- Archivo `Propuestas/Alianza-Estrategica-70-30/diapositivas-presentacion-alianza.md` que contiene el guion de diapositivas Sandler para el pitch de sociedad.
+- Archivo `Perfil/perfil-biografico.md` (originalmente `Perfil Biográfico_ José Augusto Marín Mantilla.md` provisto por el Estratega) que recopila su biografía, estudios (Naval, UAN, BCIT) y trayectoria en RCN Radio.
+- Archivo `Perfil/actividad-actual.md` (originalmente `Actividad Actual de José Augusto Marín Mantilla — Periodista Colombiano en Canadá.md` provisto por el Estratega) que registra su producción editorial en 2026 y cobertura destacada del Mundial FIFA y elecciones colombianas en Vancouver.
 
 ### Modificado
 - Archivo `jose-marin-cbn-noticias.md` actualizado con todos los datos reales verificados en la sesión de calificación Sandler (impacto de la Ley C-18 de Meta, problemas del diseño "chorrera" de WordPress, ingresos anuales de $2k, rol de decisión y plan comercial).
-- Reestructuración de la carpeta de cliente agrupando los archivos de soporte en subcarpetas organizadas (`Conversaciones/`, `Documentos/` y `Propuestas/`).
-- Renombramiento de la subcarpeta interna `propuesta` a `Alianza-Estrategica-70-30` y asignación de nombres profesionales descriptivos a los archivos de propuesta, corrigiendo errores ortográficos en los títulos.
+- Reestructuración de la carpeta de cliente agrupando los archivos de soporte en subcarpetas organizadas (`Conversaciones/`, `Documentos/`, `Propuestas/` y `Perfil/`).
+- Renombramiento de la subcarpeta interna `propuesta` a `Alianza-Estrategica-70-30` y la carpeta `Profile` a `Perfil`, asignando nombres descriptivos a los archivos de propuesta y biografía para eliminar caracteres especiales y errores ortográficos.
