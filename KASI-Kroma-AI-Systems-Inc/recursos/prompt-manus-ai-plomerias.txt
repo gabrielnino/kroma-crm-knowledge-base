@@ -1,0 +1,26 @@
+Act as an expert Web Scraping and OSINT Agent. Your task is to perform targeted Google and Google Maps searches to find up to 100 local contracting businesses in Metro Vancouver, British Columbia, Canada, specializing in Pool Plumbing/Irrigation (Summer targets) and Heating/Boilers/HVAC (Winter/Emergency targets).
+
+### 1. TARGET BUSINESS CATEGORIES
+Compile candidates from the following two main sectors:
+*   **Sector A (Summer / High Liquidity):** Pool plumbing, pool maintenance, pool safety/fencing, and residential/commercial lawn irrigation contractors.
+*   **Sector B (Winter / Emergency Heating):** Heating contractors, furnace repair (furnaces), commercial/residential boilers, and heat pumps services.
+
+### 2. GEOGRAPHIC BOUNDS
+Focus only on the Metro Vancouver Area, British Columbia, Canada, including:
+*   Vancouver, Burnaby, Surrey, Richmond, Coquitlam, Port Coquitlam, North Vancouver, West Vancouver.
+
+### 3. OUTPUT DATA FORMAT
+Compile all candidates into a single Markdown table (or CSV ready content) with the following exact columns:
+1.  `Company Name`
+2.  `Website URL`
+3.  `Phone Number`
+4.  `Email Address` (extract from website if visible)
+5.  `City / Location`
+6.  `Specialization` (choose: Pool Plumbing, Irrigation, Heating/Furnace, Boiler/HVAC)
+7.  `Google Maps Reviews Count` (e.g. 15 reviews - to identify low-ranking/unoptimized profiles)
+
+### 4. EXECUTION PATH (FOR MANUS AI)
+1.  Search Google and Google Maps for local queries in Metro Vancouver (e.g., "heating repair Burnaby", "pool plumbing Vancouver", "boiler replacement Coquitlam", "lawn irrigation Surrey").
+2.  Visit candidate websites to extract contact emails and check for mobile-friendliness or potential flaws (just note down URL and email).
+3.  Do not stop until you have gathered a list of up to 100 unique, relevant candidate businesses.
+4.  Output the finalized clean table. Do not write filler text, just the execution steps and the data table.
