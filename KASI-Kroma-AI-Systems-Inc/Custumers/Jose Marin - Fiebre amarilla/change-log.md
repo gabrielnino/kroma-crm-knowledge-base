@@ -27,6 +27,9 @@ Registro de Control de Cambios y Mutaciones Documentales de la Cuenta.
 - Archivo `Perfil/actividad-actual.md` que registra su producción editorial en 2026 y cobertura destacada del Mundial FIFA y elecciones colombianas en Vancouver.
 - Archivo `Documentos/analisis-antagonismo-cbn.md` conteniendo el informe de resultados del escrutinio de la propuesta del setup fee de $3.5k CAD y el split 70/30 bajo la perspectiva de desconfianza de José Marín.
 - Archivo `Conversaciones/mensaje-jose-2026-06-28.txt` conteniendo el mensaje oficial de WhatsApp de José Augusto Marín respondiendo a las preguntas de KASI (antigüedad de 8 años del dominio, 100 noticias al mes, más de 1,100 artículos publicados históricos y pérdida de acceso a wp-admin y cPanel por Netlify).
+- Archivo `Propuestas/reporte-proyeccion-trafico-seo.pdf` conteniendo la modelación predictiva ARIMAX y simulación Monte Carlo del tráfico orgánico a 24 meses.
+- Archivo `Propuestas/tabla-proyeccion-seo.csv` conteniendo los datos tabulados mensuales de artículos y visitas estimadas para los tres escenarios.
+- Archivo `Documentos/prompt-modelado-seo.txt` conteniendo las directrices del rol de científico de datos SEO y las variables base del modelo exógeno.
 
 ### Modificado
 - Archivo `jose-marin-cbn-noticias.md` actualizado con todos los datos reales verificados en la sesión de calificación Sandler (impacto de la Ley C-18 de Meta, problemas del diseño "chorrera" de WordPress, ingresos anuales de $2k, rol de decisión y plan comercial).
@@ -35,3 +38,4 @@ Registro de Control de Cambios y Mutaciones Documentales de la Cuenta.
 - Archivo `Propuestas/estimaciones-trafico-seo.md` re-calculado y actualizado con las variables reales provistas por José (1,100 artículos, antigüedad del dominio de 8 años y publicación de 100/mes).
 - Archivos `propuesta-ejecutiva-alianza.md`, `diapositivas-presentacion-alianza.md` y `analisis-antagonismo-cbn.md` actualizados para incorporar la **Cláusula de Desactivación de Riesgos** (garantía de propiedad de marca/dominio/redes al 100% para José, retorno preferencial del Setup Fee y de sus ingresos históricos amortizados al 100% hasta completar **$5,500 CAD** y respaldos automáticos de datos).
 - Limpieza integral de `diapositivas-presentacion-alianza.md` para eliminar anotaciones de citas `[cite: ...]`, notas de venta internas de Sandler, pasos del embudo de los títulos y terminología de ventas ("Antagonismo Técnico Desarmado"), dejándolo listo para la presentación directa al cliente.
+- Renombramiento y reubicación de los nuevos documentos de modelado SEO (`SEO_Traffic_Projection_Report.pdf` a `reporte-proyeccion-trafico-seo.pdf` en `Propuestas/`, `projection_table.csv` a `tabla-proyeccion-seo.csv` en `Propuestas/`, y `prompt_analisis_SEO_content.txt` a `prompt-modelado-seo.txt` en `Documentos/`), para cumplir con el estándar y estructura organizada de la cuenta.

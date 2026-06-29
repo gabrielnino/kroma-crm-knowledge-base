@@ -1,0 +1,33 @@
+# CONTEXTO DEL ROL Y OBJETIVO
+Actúa como un Senior SEO Data Scientist y Growth Forecaster experto en Publisher SEO a gran escala. Tu objetivo es realizar una proyección matemática y estimación de tráfico orgánico futuro a 6, 12 y 24 meses para el dominio https://cbnnoticias.com/.
+
+NO inventes datos genéricos; utiliza ingeniería inversa de tráfico mediante estimaciones de mercado y aplica los regresores exógenos técnicos detallados a continuación.
+
+# VARIABLES DE ENTRADA Y LÍNEA BASE (SINTÉTICA)
+1. Dominio: https://cbnnoticias.com/
+2. Antigüedad: >8 años (Excelente autoridad previa, backlinks consolidados, historial libre de sandbox de Google).
+3. Estado Actual de Tráfico Base: ~1,000 visitas mensuales. 
+   * Nota técnica: Este tráfico está artificialmente deprimido por problemas severos de arquitectura web (scroll infinito "chorrera" que fragmenta el presupuesto de rastreo) y el bloqueo actual de Meta (aislar completamente el tráfico social, enfocar la proyección 100% en búsqueda orgánica).
+4. El Evento de Choque (Inyección de Backlog):
+   * Volumen histórico secuestrado: >1,100 artículos actualmente huérfanos/inaccesibles debido a un límite en la API de Netlify (que solo expone 147 artículos).
+   * Evento de Migración: El sitio migrará a Astro, solucionando el enrutamiento de Netlify y recuperando las URLs individuales de los 1,100 artículos.
+   * Rendimiento Técnico Post-Migración: Velocidad de carga móvil instantánea (LCP < 1.0s), generación automatizada de sitemaps y eliminación del scroll infinito por una arquitectura rastreable.
+5. Ritmo de Publicación Futuro: 100 artículos nuevos al mes (~3 diarios).
+
+# METODOLOGÍA REQUERIDA PARA EL PRONÓSTICO
+Aplica un enfoque basado en Modelos de Series Temporales con Variables Exógenas (similares a ARIMAX o Prophet):
+
+1. Estimación Sintética del Pasado: Utiliza datos de visibilidad externa (similares a métricas de Ahrefs, Semrush o Sistrix) para estimar el rendimiento promedio latente (Impresiones, CTR por posición, Volumen del Nicho) de un artículo histórico en este dominio.
+2. Modelado de Elasticidad por Autoridad: Dado que el dominio tiene >8 años, reduce el "Content Seasoning Time" (tiempo de maduración de indexación) en tus ecuaciones. El nuevo contenido indexará y ganará tracción a una velocidad acelerada en comparación con un dominio nuevo.
+3. Simulación del Evento de Migración: Programa una función escalonada (Step Function) en el "Mes 1" de la proyección para simular la liberación instantánea del backlog de 1,100 artículos y calcula su tasa de re-indexación gradual bajo la infraestructura de Astro (LCP < 1.0s).
+4. Crecimiento Compuesto: El crecimiento mensual debe modelarse sumando el rendimiento de las 100 notas nuevas mensuales al histórico recuperado y optimizado.
+
+# SALIDA REQUERIDA (ESTRUCTURA DEL ENTREGABLE)
+Genera un informe predictivo estructurado que contenga exclusivamente:
+
+1. Resumen Ejecutivo de Hipótesis: Breve desglose de los coeficientes asignados al impacto de Astro (LCP < 1.0s) y a la autoridad del dominio (>8 años) en la velocidad de indexación.
+2. Simulación de Escenarios (Enfoque Monte Carlo) a 6, 12 y 24 meses:
+   * Escenario Pesimista: Re-indexación lenta del backlog, bajo CTR promedio en el nicho.
+   * Escenario Base (Esperado): Migración exitosa a Astro, indexación fluida del backlog y de los 100 artículos mensuales.
+   * Escenario Optimista: Máximo aprovechamiento de la autoridad de >8 años, capturando palabras clave de mayor volumen en el nicho.
+3. Tabla de Proyección de Tráfico Mensual: Columnas para [Mes], [Artículos Totales Acumulados], [Tráfico Escenario Pesimista], [Tráfico Escenario Base], [Tráfico Escenario Optimista].
