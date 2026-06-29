@@ -1,0 +1,67 @@
+2024-04-01, 11:14 p.m. - Messages and calls are end-to-end encrypted. Only people in this chat can read, listen to, or share them. *Learn more*
+2024-07-14, 3:10 p.m. - Messages and calls are end-to-end encrypted. Only people in this chat can read, listen to, or share them. *Learn more*
+2026-06-07, 9:04 p.m. - Luis Nino: Hola Carlos soy Luis Nino
+2026-06-07, 9:04 p.m. - Luis Nino: Soy programador un Amigó me pasó tu contacto
+2026-06-07, 9:05 p.m. - Luis Nino: DotnetDeveloperLuisNinoV7.docx (file attached)
+DotnetDeveloperLuisNinoV7.docx
+2026-06-09, 9:26 p.m. - Carlos IT: Hola! Gracias por escribirme. Te cuento en simple: estoy buscando ayuda para desarrollar una primera demo navegable de una plataforma web.
+
+No es una app final ni un producto completo todavía. Es una versión 0 privada, visualmente profesional, con navegación entre pantallas, formularios simples y contenido simulado, para validar la experiencia antes de construir algo más grande.
+
+La prioridad es que se vea seria, premium y confiable. No necesito por ahora backend complejo, pagos, login real ni base de datos completa.
+
+Idealmente podría hacerse en Framer, Webflow o una herramienta similar, pero estoy abierto a la mejor solución si el resultado se ve profesional y es navegable.
+
+Antes de compartir más detalles del proyecto, me gustaría saber:
+¿Has hecho demos navegables, sitios web o plataformas visuales de este tipo?
+¿Tienes ejemplos de trabajos que pueda revisar?
+¿Trabajas más diseño/frontend/no-code o desarrollo full-stack?
+
+Gracias!
+2026-06-09, 9:27 p.m. - Luis Nino: Tienes tiempo y háblanos
+2026-06-09, 9:28 p.m. - Luis Nino: https://fiestaco.today/
+2026-06-09, 9:29 p.m. - Luis Nino: https://www.rimrevive.store/
+2026-06-09, 9:29 p.m. - Luis Nino: Esos son dos de los muchos trabajos que he hecho la gran mayoría
+2026-06-09, 9:29 p.m. - Luis Nino: Han sido privados de empresas grandes
+2026-06-09, 9:30 p.m. - Luis Nino: Soy fullstack
+2026-06-09, 9:30 p.m. - Luis Nino: Tu me dieras que quieres y te puedo hacer un demo ☺️
+2026-06-09, 9:30 p.m. - Luis Nino: Es por proyecto horas tu me dirás??
+2026-06-09, 9:44 p.m. - Luis Nino: En cuanto a la herramienta lo mejor es next.js
+2026-06-09, 9:45 p.m. - Luis Nino: Next.js by Vercel - The React Framework https://share.google/dPYDBpGE1rFAcTeyA
+2026-06-09, 9:45 p.m. - Luis Nino: Es basado en typescript que es de Microsoft y muy parecido a c#
+2026-06-09, 9:46 p.m. - Luis Nino: Es genial para el desarrollo web
+2026-06-10, 10:39 a.m. - Carlos IT: Hola muchas gracias!
+Voy a revisar y te comento. 
+Saludos!
+2026-06-11, 10:49 a.m. - Luis Nino: Cuentame como te fue
+2026-06-17, 2:49 p.m. - Carlos IT: Hola buenas! Perdona la demora
+2026-06-17, 2:53 p.m. - Luis Nino: Como te fue
+2026-06-17, 4:15 p.m. - Carlos IT: PTT-20260617-WA0090.opus (file attached)
+2026-06-18, 3:07 p.m. - Luis Nino: You deleted this message
+2026-06-18, 3:07 p.m. - Luis Nino: Hola
+2026-06-18, 3:08 p.m. - Luis Nino: Me quedé esperando ayer el detalles
+2026-06-18, 3:56 p.m. - Luis Nino: Si quieres cuando tengas tiempo hacemos una llamada y me cuentas los detalles hoy estoy, libre hasta las siete pm. Mañana descanso si puedes mañana te atiendo.
+2026-06-21, 11:08 a.m. - Luis Nino: Hola carlos como estas
+2026-06-21, 11:09 a.m. - Luis Nino: 
+2026-06-22, 7:19 p.m. - Carlos IT: PTT-20260622-WA0047.opus (file attached)
+2026-06-22, 7:20 p.m. - Luis Nino: Perfect
+2026-06-22, 7:21 p.m. - Carlos IT: PTT-20260622-WA0048.opus (file attached)
+2026-06-22, 7:22 p.m. - Carlos IT: PTT-20260622-WA0049.opus (file attached)
+2026-06-22, 7:23 p.m. - Carlos IT: PTT-20260622-WA0050.opus (file attached)
+2026-06-22, 7:26 p.m. - Luis Nino: Te parece
+2026-06-22, 7:26 p.m. - Luis Nino: Si te llamó
+2026-06-22, 7:27 p.m. - Carlos IT: PTT-20260622-WA0052.opus (file attached)
+2026-06-22, 7:28 p.m. - Luis Nino: PTT-20260622-WA0053.opus (file attached)
+2026-06-22, 7:35 p.m. - Carlos IT: PTT-20260622-WA0054.opus (file attached)
+2026-06-22, 7:35 p.m. - Luis Nino: Quieres un mockup
+2026-06-22, 7:35 p.m. - Luis Nino: Un mockup navegable
+2026-06-22, 7:35 p.m. - Luis Nino: Por horas está perfecto y por módulo
+2026-06-22, 7:40 p.m. - Carlos IT: PTT-20260622-WA0057.opus (file attached)
+2026-06-22, 8:20 p.m. - Luis Nino: PTT-20260622-WA0060.opus (file attached)
+2026-06-23, 9:27 p.m. - Carlos IT: PTT-20260623-WA0161.opus (file attached)
+2026-06-23, 9:28 p.m. - Carlos IT: PTT-20260623-WA0162.opus (file attached)
+2026-06-23, 9:29 p.m. - Luis Nino: PTT-20260623-WA0163.opus (file attached)
+2026-06-23, 9:31 p.m. - Carlos IT: PTT-20260623-WA0164.opus (file attached)
+2026-06-23, 9:31 p.m. - Carlos IT: PTT-20260623-WA0165.opus (file attached)
+2026-06-23, 9:32 p.m. - Carlos IT: PTT-20260623-WA0166.opus (file attached)
+2026-06-23, 9:33 p.m. - Luis Nino: PTT-20260623-WA0168.opus (file attached)

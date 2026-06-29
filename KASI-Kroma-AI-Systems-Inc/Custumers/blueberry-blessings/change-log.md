@@ -19,3 +19,14 @@ Registro de Control de Cambios y Mutaciones Documentales de la Cuenta.
 
 ### Modificado
 - Archivo `bobby-blueberry-blessings.md` actualizado para registrar el envío de portafolio web por SMS, la respuesta de Bobby ("Thanks Luis. I will review them today") y el estado situacional post-cosecha retrasada por lluvia.
+
+## [2026-06-29]
+### Agregado
+- Carpeta `Videos/` conteniendo los entregables de video promocionales de la granja (`cierre.mp4`, `intro.mp4`, `medio.mp4`, `movie-farm.mp4`) y la subcarpeta `fotos/` conteniendo `foto-granja-1.jpg` y `foto-granja-2.jpg`.
+
+### Modificado
+- Reestructuración organizativa de la carpeta del cliente para cumplir con el estándar corporativo:
+  - Creación de las subcarpetas `Conversaciones/` y `Documentos/`.
+  - Reubicación y renombramiento de conversaciones: `mail.txt` a `Conversaciones/conversacion-email.txt`, `sms.txt` a `Conversaciones/conversacion-sms.txt`, y `bobby-sms-response.txt` a `Conversaciones/conversacion-sms-respuesta-bobby.txt`.
+  - Reubicación y renombramiento de documentos: `BlueberryBlessingsFiled.pdf` a `Documentos/formulario-postulacion-cosecha.pdf`, y `blueberry blussing.txt` a `Documentos/boletin-lanzamiento-cosecha.txt` (corrigiendo error ortográfico).
+  - Renombramiento y reestructuración de multimedia: de `video-bc` a `Videos/`, normalizando los nombres de las imágenes de `1.jpg` y `2.jpg` a `foto-granja-1.jpg` y `foto-granja-2.jpg`.
