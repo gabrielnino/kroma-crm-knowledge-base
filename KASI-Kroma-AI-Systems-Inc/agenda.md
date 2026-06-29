@@ -12,7 +12,7 @@ Registro de eventos, llamadas, recordatorios y plazos de descalificación de cue
 ### Miércoles 1 de Julio de 2026
 *   **Carlos IT:** Enviar mensaje de seguimiento por WhatsApp (10:00 AM).
     *   *Mensaje:* `"Hola Carlos, espero que estés teniendo una buena semana. Escribo para ver si pudiste cerrar ese 20% restante del recorrido de usuario. Si te parece bien, coordinamos una llamada rápida de 20 minutos este [Miércoles/Jueves] por la tarde para validar el flujo completo y acordar el alcance del primer bloque del mockup navegable. Cuéntame qué horario te queda mejor."`
-*   **Blueberry Blessings (Bobby):** ✅ **BOBBY RESPONDIÓ a las 11:35 AM** solicitando una llamada rápida para hoy. Luis confirmó disponibilidad. **Esperar la llamada de Bobby hoy lunes 29 de junio.** La cuenta pasa de FRÍA ❄️ a TIBIA 🔥.
+*   **Blueberry Blessings (Bobby):** 🔥🔥 **CUENTA CALIENTE.** Bobby respondió 2 veces confirmando interés. A las 12:41 PM escribió: *"I will call you as soon as I have a moment in between work."* **Está en campo trabajando (temporada activa = tiene caja) y aún así prioriza contactar a Luis.** Esperar la llamada hoy.
 
 ### Jueves 2 de Julio de 2026
 *   **Carlos IT:** Fecha alternativa de seguimiento por WhatsApp si no se envió o no respondió el miércoles.
