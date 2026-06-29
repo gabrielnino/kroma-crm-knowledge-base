@@ -24,6 +24,7 @@ Registro de Control de Cambios y Mutaciones Documentales de la Cuenta.
 ### Agregado
 - Carpeta `Videos/` conteniendo los entregables de video promocionales de la granja (`cierre.mp4`, `intro.mp4`, `medio.mp4`, `movie-farm.mp4`) y la subcarpeta `fotos/` conteniendo `foto-granja-1.jpg` y `foto-granja-2.jpg`.
 - Registro de envío del SMS de reactivación/control a Bobby a las 8:49 AM ofreciendo apoyo operativo en el campo.
+- Archivo `Conversaciones/conversacion-sms-29-junio.txt` conteniendo el intercambio de SMS del 29 de junio: Bobby respondió a las 11:35 AM solicitando una llamada rápida para hoy. Luis confirmó disponibilidad. **ALERTA: La cuenta pasa de FRÍA a TIBIA. Bobby mostró interés activo.**
 
 ### Modificado
 - Reestructuración organizativa de la carpeta del cliente para cumplir con el estándar corporativo:

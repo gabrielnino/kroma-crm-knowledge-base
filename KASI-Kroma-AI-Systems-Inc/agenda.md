@@ -12,10 +12,10 @@ Registro de eventos, llamadas, recordatorios y plazos de descalificación de cue
 ### Miércoles 1 de Julio de 2026
 *   **Carlos IT:** Enviar mensaje de seguimiento por WhatsApp (10:00 AM).
     *   *Mensaje:* `"Hola Carlos, espero que estés teniendo una buena semana. Escribo para ver si pudiste cerrar ese 20% restante del recorrido de usuario. Si te parece bien, coordinamos una llamada rápida de 20 minutos este [Miércoles/Jueves] por la tarde para validar el flujo completo y acordar el alcance del primer bloque del mockup navegable. Cuéntame qué horario te queda mejor."`
-*   **Blueberry Blessings (Bobby):** SMS de reactivación/control enviado el lunes 29 de junio a las 8:49 AM. Esperar respuesta de confirmación. Si no responde antes del jueves, realizar llamada corta de seguimiento.
+*   **Blueberry Blessings (Bobby):** ✅ **BOBBY RESPONDIÓ a las 11:35 AM** solicitando una llamada rápida para hoy. Luis confirmó disponibilidad. **Esperar la llamada de Bobby hoy lunes 29 de junio.** La cuenta pasa de FRÍA ❄️ a TIBIA 🔥.
 
 ### Jueves 2 de Julio de 2026
 *   **Carlos IT:** Fecha alternativa de seguimiento por WhatsApp si no se envió o no respondió el miércoles.
 
 ### Lunes 6 de Julio de 2026
-*   **Blueberry Blessings (Bobby):** **Fecha Límite (Timebox) de Calificación**. Si tras los intentos de contacto de la semana Bobby no agenda el día de prueba en campo, **descalificar la cuenta** de forma definitiva en el pipeline.
+*   **Blueberry Blessings (Bobby):** ~~Fecha Límite (Timebox) de Calificación~~. **SUSPENDIDA** — Bobby respondió positivamente el 29 de junio. Reevaluar tras la llamada de hoy.
