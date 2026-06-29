@@ -847,6 +847,48 @@
             const wrappers = Array.from(document.querySelectorAll(".slide-wrapper"));
             document.body.appendChild(container);
             wrappers.forEach(wrapper => container.appendChild(wrapper));
+
+            // --- Slideshow Navigation Controller ---
+            let currentIdx = 0;
+            let isScrolling = false;
+            const scrollCooldown = 800; // ms
+
+            function goToSlide(index) {
+                if (index < 0 || index >= wrappers.length) return;
+                currentIdx = index;
+                isScrolling = true;
+                
+                wrappers[currentIdx].scrollIntoView({ behavior: 'smooth', block: 'start' });
+                
+                setTimeout(() => {
+                    isScrolling = false;
+                }, scrollCooldown);
+            }
+
+            // Intercept mouse wheel
+            window.addEventListener("wheel", (e) => {
+                e.preventDefault();
+                if (isScrolling) return;
+                
+                if (e.deltaY > 0) {
+                    goToSlide(currentIdx + 1);
+                } else if (e.deltaY < 0) {
+                    goToSlide(currentIdx - 1);
+                }
+            }, { passive: false });
+
+            // Intercept keyboard arrow keys and spacebar
+            window.addEventListener("keydown", (e) => {
+                if (isScrolling) return;
+                
+                if (e.key === "ArrowDown" || e.key === "PageDown" || e.key === " ") {
+                    e.preventDefault();
+                    goToSlide(currentIdx + 1);
+                } else if (e.key === "ArrowUp" || e.key === "PageUp") {
+                    e.preventDefault();
+                    goToSlide(currentIdx - 1);
+                }
+            });
         });
     </script>
 </body>
