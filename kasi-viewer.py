@@ -685,7 +685,7 @@ class KasiViewerHandler(BaseHTTPRequestHandler):
 
 def main():
     try:
-        server = HTTPServer(('localhost', PORT), KasiViewerHandler)
+        server = HTTPServer(('0.0.0.0', PORT), KasiViewerHandler)
         print(f"============================================================")
         print(f" Visor KASI Web Local Inicializado")
         print(f" URL de Acceso: http://localhost:{PORT}/")
