@@ -23,6 +23,7 @@ Registro de Control de Cambios y Mutaciones Documentales de la Cuenta.
 ## [2026-06-29]
 ### Agregado
 - Carpeta `Videos/` conteniendo los entregables de video promocionales de la granja (`cierre.mp4`, `intro.mp4`, `medio.mp4`, `movie-farm.mp4`) y la subcarpeta `fotos/` conteniendo `foto-granja-1.jpg` y `foto-granja-2.jpg`.
+- Registro de envío del SMS de reactivación/control a Bobby a las 8:49 AM ofreciendo apoyo operativo en el campo.
 
 ### Modificado
 - Reestructuración organizativa de la carpeta del cliente para cumplir con el estándar corporativo:
