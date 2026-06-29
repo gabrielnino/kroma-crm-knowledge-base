@@ -33,6 +33,7 @@ Registro de Control de Cambios y Mutaciones Documentales de la Cuenta.
 - Archivo `Propuestas/reporte-analitico-ingresos-publicitarios.pdf` conteniendo la modelación de ingresos de inventario publicitario y multimedia (Reels/TikToks) y análisis de ROI al Mes 12.
 - Archivo `Propuestas/documento-maestro-estrategico-v2.pdf` conteniendo la auditoría de carga cognitiva y rediseño de las 10 diapositivas corporativas de la alianza.
 - Archivo `Documentos/prompt-modelado-monetizacion.txt` conteniendo las directrices de optimización de CPM geográfico y video vertical para el modelo publicitario.
+- Archivo `Documentos/prompt-presentacion-cbn-noticias.md` conteniendo las directrices de diseño UI/UX y guiones Sandler para estructurar las 10 diapositivas del pitch de alianza.
 
 ### Modificado
 - Archivo `jose-marin-cbn-noticias.md` actualizado con todos los datos reales verificados en la sesión de calificación Sandler (impacto de la Ley C-18 de Meta, problemas del diseño "chorrera" de WordPress, ingresos anuales de $2k, rol de decisión y plan comercial).
@@ -43,3 +44,5 @@ Registro de Control de Cambios y Mutaciones Documentales de la Cuenta.
 - Limpieza integral de `diapositivas-presentacion-alianza.md` para eliminar anotaciones de citas `[cite: ...]`, notas de venta internas de Sandler, pasos del embudo de los títulos y terminología de ventas ("Antagonismo Técnico Desarmado"), dejándolo listo para la presentación directa al cliente.
 - Renombramiento y reubicación de los nuevos documentos de modelado SEO (`SEO_Traffic_Projection_Report.pdf` a `reporte-proyeccion-trafico-seo.pdf` en `Propuestas/`, `projection_table.csv` a `tabla-proyeccion-seo.csv` en `Propuestas/`, y `prompt_analisis_SEO_content.txt` a `prompt-modelado-seo.txt` en `Documentos/`), para cumplir con el estándar y estructura organizada de la cuenta.
 - Renombramiento de los nuevos documentos de modelado de monetización y diseño maestro (`Reporte_Completo_CBN_Noticias.pdf` a `reporte-analitico-ingresos-publicitarios.pdf` en `Propuestas/`, y `documento_maestro_cbn_kasi_v2.pdf` a `documento-maestro-estrategico-v2.pdf` en `Propuestas/`), alineándolos con las convenciones estándar de nomenclatura de la cuenta.
+- Reubicación de los nuevos documentos de presentación (`documento-maestro-estrategico-v2.pdf` en la subcarpeta `Propuestas/Alianza-Estrategica-70-30/` con eliminación de su duplicado en `Propuestas/`, y traslado del archivo de prompt `prompt-presentacion-cbn-noticias.md` a `Documentos/`), manteniendo limpio el subdirectorio de propuestas.
+- Eliminación de los borradores anteriores `diapositivas-presentacion-alianza.md` y `propuesta-ejecutiva-alianza.md` en la carpeta `Propuestas/Alianza-Estrategica-70-30/`.
