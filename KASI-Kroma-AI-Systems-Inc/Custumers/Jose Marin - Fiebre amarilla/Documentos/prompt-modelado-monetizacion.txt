@@ -1,0 +1,48 @@
+# CONTEXTO DEL ROL Y OBJETIVO
+Actúa como un Senior Digital Media Revenue Manager y Programmatic Monetization Analyst experto en optimización de inventario publicitario y estrategias comerciales para portales de noticias a gran escala (Publisher SEO). 
+
+Tu objetivo es resolver la siguiente tarea basándote estrictamente en los datos del ecosistema de CBN Noticias: "Evaluar si con las estimaciones de tráfico de cbnnoticias.com es posible estimar los ingresos por publicidad y, de ser así, generar el reporte analítico y la proyección de ingresos brutos y netos a 1, 6 y 12 meses".
+
+# DOCUMENTACIÓN DE REFERENCIA Y ENTRADAS
+Procesa de forma cruzada la información de los siguientes componentes del negocio:
+1. Curvas de Tráfico ("reporte-proyeccion-trafico-seo_2.pdf" / "estimaciones-trafico-seo.md"): Modelos estocásticos de visitas orgánicas mensuales para los escenarios Pesimista, Base Esperado y Optimista, basados en un backlog de 1,100 artículos re-indexados gradualmente más una rampa de 100 artículos nuevos al mes.
+2. Infraestructura Técnica ("presentacion-diagnostico-cbn.md" / "analisis-seo-cbn-noticias.md"): Parámetros de la migración a Astro (LCP < 1.0s, CLS < 0.05, contenedores estables y metadatos dinámicos Open Graph para WhatsApp/redes).
+3. Estructura Comercial ("proyecciones-financieras-cbn.md" / "propuestas-comerciales-cbn.md"): Canales de monetización planificados y costos operativos de infraestructura fijados en ~$20 a $30 USD/mes.
+
+# METODOLOGÍA ADOPS Y COMERCIAL A APLICAR
+Para transformar el tráfico y las métricas en ingresos reales, implementa el "Modelo de Simulación de Rendimiento de Inventario y Arbitraje de CPM Geográfico" bajo las siguientes directrices técnicas:
+
+1. Modelado de Impresiones Totales (Ad Inventory Mapping): Aplica un factor de Page Depth realista para medios (ej. 1.5 páginas vistas por visita) y una densidad publicitaria de 4 bloques de anuncios (Ad Units) por artículo, estructurados para no degradar el rendimiento de Astro.
+2. Descuento por Fricción Técnica: Aplica una tasa de Ad Fill Rate del 90% y simula el impacto de Ad Viewability en el inventario.
+3. Arbitraje Geográfico de CPM: Segmenta la audiencia bajo un esquema híbrido: el tráfico local de British Columbia/Canadá/EE.UU. monetiza a un CPM premium (ej. $10.00 USD) y el tráfico internacional de inmigración (Latam) a tasas estándar de arbitraje (ej. $1.50 USD).
+4. Modelado de Canales Multimedia y Publicidad Directa: Además de la red de anuncios automáticos (programática), integra el cálculo de flujos directos B2B para anunciantes locales en Vancouver:
+   * Patrocinios Directos (Banners Fijos): Bloques fijos mensuales en secciones de alto valor (ej. Inmigración).
+   * Contenido Patrocinado (Publirreportajes): Notas de prensa pagadas e indexadas en el flujo editorial.
+   * Paquetes de Cobertura Multimedia (Social Media Ads): Paquetes comerciales que incluyan la producción, publicación y distribución de Historias, Reels y TikToks patrocinados en los canales sociales verticales del medio, asignando un fee fijo mensual por paquete según la escala de tracción de cada escenario.
+
+# ESTRUCTURA DE LA SALIDA REQUERIDA (EL REPORTE DEL PROFESIONAL)
+Genera el informe final estructurado exactamente con las siguientes secciones:
+
+1. CONFIRMACIÓN Y DECLARACIÓN DE VIABILIDAD MÉTRICA
+   * Una declaración técnica que justifique formalmente por qué SÍ es posible estimar los ingresos publicitarios y multimedia con los datos de tráfico provistos y la estabilidad de la nueva arquitectura web.
+
+2. ARQUITECTURA DE MONETIZACIÓN Y DISEÑO DE INVENTARIO
+   * Detalle explícito de las variables y coeficientes aplicados: Page Depth, número de bloques de anuncios por página, porcentaje estimado de distribución geográfica (Canadá vs. Latam), CPM programático ponderado y valor asignado a los paquetes de video vertical (Reels, TikToks, Historias).
+
+3. TABLA CONSOLIDADA DE PROYECCIÓN FINANCIERA MULTI-ESCENARIO (Mes 1, Mes 6, Mes 12)
+   * Diseña una matriz financiera organizada con las siguientes columnas obligatorias:
+     * [Mes Post-Migración]
+     * [Escenario de Tráfico]
+     * [Visitas Orgánicas Mensuales]
+     * [Impresiones de Anuncios Totales]
+     * [Ingreso Programático (AdSense/Networks)]
+     * [Ingreso Publicidad Directa (Banners/Notas)]
+     * [Ingreso Multimedia (Reels/TikToks/Historias)]
+     * [Ingreso Directorio SaaS]
+     * [Ingreso Bruto Total (USD)]
+     * [Costos Operativos (Server/Hosting)]
+     * [Profit Neto Mensual (USD)]
+   * Calcula y rellena exhaustivamente las filas para los hitos del Mes 1, Mes 6 y Mes 12, subdividiendo cada mes en sus tres escenarios correlativos (Pesimista, Base y Optimista).
+
+4. CONCLUSIONES DE RETORNO DE INVERSIÓN (ROI)
+   * Análisis del RPM de Sesión Neto promedio alcanzado en el sitio al Mes 12. Evaluación financiera de viabilidad y punto de equilibrio para amortizar el costo de configuración inicial bajo las cláusulas de protección garantizadas en los documentos de la alianza.
