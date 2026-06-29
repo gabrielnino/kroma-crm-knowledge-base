@@ -1,0 +1,22 @@
+=== MINUTA DE CONVERSACIÓN TELEFÓNICA ===
+Cliente: Carlos (Carlos IT)
+Fecha: 28 de Junio de 2026
+Hora: 8:00 p.m.
+Participantes: Carlos IT, Luis Gabriel Niño
+Tema: Definición de alcance del Mockup Navegable V0 y asfixia operativa
+
+SINOPSIS Y DETALLES CLAVE:
+1. Definición del Modelo de Negocio:
+   Carlos detalla que su proyecto consiste en un marketplace de economía colaborativa, con un flujo de publicación y compra muy similar al funcionamiento de Facebook Marketplace o Airbnb (intermediación entre oferentes y demandantes de artículos/servicios).
+
+2. Uso de Inteligencia Artificial en el Diseño:
+   Carlos ha avanzado de manera autónoma en la conceptualización, diagramación y diseño del recorrido del usuario (user journey) utilizando herramientas de inteligencia artificial (generando prompts para ChatGPT y Codex para crear esquemas visuales iniciales). Ha logrado completar aproximadamente el 80% del recorrido teórico del usuario.
+
+3. Restricción de Tiempo (El Dolor Principal):
+   A pesar de poseer el conocimiento y tener la idea estructurada, Carlos manifiesta que no dispone del tiempo físico necesario para programar la maqueta debido a la alta demanda de su trabajo principal (asfixia operativa/laboral).
+
+4. Requerimiento Técnico de Desarrollo:
+   Busca delegar la programación en Luis Gabriel para construir una "Versión 0" (mockup navegable e interactivo de alta fidelidad estética) en Next.js. El objetivo de esta V0 es simular el flujo sin necesidad de implementar login real, bases de datos completas o pasarelas de pago.
+
+5. Esquema de Pago y Siguientes Pasos:
+   Carlos está de acuerdo en avanzar mediante hitos de paquetes de horas bajo la tarifa propuesta por Luis Gabriel ($22 USD/hora). Acuerdan volver a contactarse a mediados de la próxima semana (miércoles 1 o jueves 2 de julio) una vez que Carlos cierre el 20% restante del recorrido de usuario.
