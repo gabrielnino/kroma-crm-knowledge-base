@@ -1,0 +1,304 @@
+{
+  "results": [
+    {
+      "input": "https://www.pondspoolspa.ca/",
+      "output": {
+        "city": "Surrey",
+        "email": "info@pondspoolspa.ca",
+        "phone": "604-535-5828",
+        "website_url": "https://www.pondspoolspa.ca/"
+      },
+      "error": ""
+    },
+    {
+      "input": "https://www.northshorepool.ca/",
+      "output": {
+        "city": "West Vancouver",
+        "email": "info@northshorepool.ca",
+        "phone": "236-666-2345",
+        "website_url": "https://www.northshorepool.ca/"
+      },
+      "error": ""
+    },
+    {
+      "input": "https://www.cclearpool.ca/",
+      "output": {
+        "city": "Surrey",
+        "email": "cleanandclearbc@gmail.com",
+        "phone": "604-657-4815",
+        "website_url": "https://www.cclearpool.ca/"
+      },
+      "error": ""
+    },
+    {
+      "input": "https://poolcompassinc.com/",
+      "output": {
+        "city": "Langley",
+        "email": "info@poolcompassinc.com",
+        "phone": "672-982-7665",
+        "website_url": "https://poolcompassinc.com/"
+      },
+      "error": ""
+    },
+    {
+      "input": "https://www.metrovanpoolrepair.com/",
+      "output": {
+        "city": "Metro Vancouver",
+        "email": "robel@metrovanpoolrepair.com",
+        "phone": "604-600-5062",
+        "website_url": "https://www.metrovanpoolrepair.com/"
+      },
+      "error": ""
+    },
+    {
+      "input": "https://www.alkapool.com/",
+      "output": {
+        "city": "Burnaby",
+        "email": "splash@alkapool.com",
+        "phone": "(604) 320 2552",
+        "website_url": "https://www.alkapool.com/"
+      },
+      "error": ""
+    },
+    {
+      "input": "https://www.americanpools.ca/",
+      "output": {
+        "city": "Langley",
+        "email": "americanpools@telus.net",
+        "phone": "604-583-5548",
+        "website_url": "https://www.americanpools.ca/"
+      },
+      "error": ""
+    },
+    {
+      "input": "https://ramepool.ca/",
+      "output": {
+        "city": "N/A",
+        "email": "info@ramepool.ca",
+        "phone": "604-902-9311",
+        "website_url": "https://ramepool.ca/"
+      },
+      "error": ""
+    },
+    {
+      "input": "https://www.puddlepoolservices.com/",
+      "output": {
+        "city": "N/A",
+        "email": "info@puddlepools.com",
+        "phone": "1-888-282-2590",
+        "website_url": "https://puddlepools.com/"
+      },
+      "error": ""
+    },
+    {
+      "input": "https://universitysprinklers.com/",
+      "output": {
+        "city": "Vancouver",
+        "email": "office@universitysprinklers.com",
+        "phone": "604-421-4555",
+        "website_url": "https://universitysprinklers.com/"
+      },
+      "error": ""
+    },
+    {
+      "input": "https://ableirrigation.com/",
+      "output": {
+        "city": "Burnaby",
+        "email": "info@ableirrigation.com",
+        "phone": "604-584-7676",
+        "website_url": "https://ableirrigation.com/"
+      },
+      "error": ""
+    },
+    {
+      "input": "https://westvanirrigation.com/",
+      "output": {
+        "city": "North Vancouver",
+        "email": "frontdesk@wvisprinklers.ca",
+        "phone": "604-924-0221",
+        "website_url": "https://westvanirrigation.com/"
+      },
+      "error": ""
+    },
+    {
+      "input": "https://www.sprinklerguys.co/",
+      "output": {
+        "city": "Vancouver",
+        "email": "askus@sprinklerguys.co",
+        "phone": "778-848-6011",
+        "website_url": "https://www.sprinklerguys.co/"
+      },
+      "error": ""
+    },
+    {
+      "input": "https://www.rainco.ca/",
+      "output": {
+        "city": "Langley",
+        "email": "craig@rainco.ca",
+        "phone": "604-836-7437",
+        "website_url": "https://www.rainco.ca/"
+      },
+      "error": ""
+    },
+    {
+      "input": "https://www.permanentirrigation.com/",
+      "output": {
+        "city": "Vancouver",
+        "email": "websites+monm+mjg@yourdigitalagents.com",
+        "phone": "604-241-1415",
+        "website_url": "https://www.permanentirrigation.com/"
+      },
+      "error": ""
+    },
+    {
+      "input": "https://www.dynastyirrigation.com/",
+      "output": {
+        "city": "Vancouver",
+        "email": "N/A",
+        "phone": "604-559-7473",
+        "website_url": "https://www.dynastyirrigation.com/"
+      },
+      "error": ""
+    },
+    {
+      "input": "https://www.completeirrigation.ca/",
+      "output": {
+        "city": "Vancouver",
+        "email": "N/A",
+        "phone": "604-367-6170",
+        "website_url": "https://www.completeirrigation.ca/"
+      },
+      "error": ""
+    },
+    {
+      "input": "https://burnabyirrigation.com/",
+      "output": {
+        "city": "Burnaby",
+        "email": "info@burnabyirrigation.com",
+        "phone": "604.298.4717",
+        "website_url": "https://burnabyirrigation.com/"
+      },
+      "error": ""
+    },
+    {
+      "input": "https://www.nexlineirrigation.ca/",
+      "output": {
+        "city": "Lower Mainland",
+        "email": "office@nexlineirrigation.ca",
+        "phone": "604-318-5445",
+        "website_url": "https://www.nexlineirrigation.ca/"
+      },
+      "error": ""
+    },
+    {
+      "input": "https://solidvancouverirrigation.ca/",
+      "output": {
+        "city": "Vancouver",
+        "email": "solidirrigation@gmail.com",
+        "phone": "604-757-1920",
+        "website_url": "https://solidvancouverirrigation.ca/"
+      },
+      "error": ""
+    },
+    {
+      "input": "https://vanheatservices.com/",
+      "output": {
+        "city": "North Vancouver",
+        "email": "info@vanheatservices.com",
+        "phone": "604-281-4790",
+        "website_url": "https://vanheatservices.com/"
+      },
+      "error": ""
+    },
+    {
+      "input": "https://westernpacifichvac.com/",
+      "output": {
+        "city": "Vancouver",
+        "email": "N/A",
+        "phone": "604-245-9451",
+        "website_url": "https://westernpacifichvac.com/"
+      },
+      "error": ""
+    },
+    {
+      "input": "https://nationheating.ca/vancouver/",
+      "output": {
+        "city": "Vancouver",
+        "email": "info@nationheating.ca",
+        "phone": "604-299-5006",
+        "website_url": "https://nationheating.ca/vancouver/"
+      },
+      "error": ""
+    },
+    {
+      "input": "https://angelsheating.com/",
+      "output": {
+        "city": "Burnaby",
+        "email": "info@angelsheating.com",
+        "phone": "604-969-7770",
+        "website_url": "https://angelsheating.com/"
+      },
+      "error": ""
+    },
+    {
+      "input": "https://ecoproheating.ca/",
+      "output": {
+        "city": "North Vancouver",
+        "email": "contact@ecoproheating.ca",
+        "phone": "604-725-4485",
+        "website_url": "https://ecoproheating.ca/"
+      },
+      "error": ""
+    },
+    {
+      "input": "https://acecare.ca/",
+      "output": {
+        "city": "Burnaby",
+        "email": "info@acecare.ca",
+        "phone": "604-200-6930",
+        "website_url": "https://acecare.ca/"
+      },
+      "error": ""
+    },
+    {
+      "input": "https://www.totallinehvac.ca/",
+      "output": {
+        "city": "North Vancouver",
+        "email": "info@totallinehvac.ca",
+        "phone": "604-765-1299",
+        "website_url": "https://www.totallinehvac.ca/"
+      },
+      "error": ""
+    },
+    {
+      "input": "https://bcfurnace.com/",
+      "output": {
+        "city": "Coquitlam",
+        "email": "bcfsdispatcher@gmail.com",
+        "phone": "604-415-9471",
+        "website_url": "https://bcfurnace.com/"
+      },
+      "error": ""
+    },
+    {
+      "input": "https://highmarkplumbing.com/",
+      "output": {
+        "city": "Port Coquitlam",
+        "email": "N/A",
+        "phone": "604-945-6060",
+        "website_url": "https://highmarkplumbing.com/"
+      },
+      "error": ""
+    },
+    {
+      "input": "https://www.hillcrestplumbingandheating.com/",
+      "output": {
+        "city": "Vancouver",
+        "email": "sales@hp91.ca",
+        "phone": "604-879-5301",
+        "website_url": "https://www.hillcrestplumbingandheating.com/"
+      },
+      "error": ""
+    }
+  ]
+}

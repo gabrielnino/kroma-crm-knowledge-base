@@ -1,0 +1,254 @@
+{
+  "results": [
+    {
+      "input": "https://www.pioneerplumbing.com/",
+      "output": {
+        "city": "Vancouver",
+        "email": "N/A",
+        "phone": "604-872-4946",
+        "website_url": "https://www.pioneerplumbing.com/"
+      },
+      "error": ""
+    },
+    {
+      "input": "https://www.milani.ca/",
+      "output": {
+        "city": "Vancouver",
+        "email": "customerservice@milani.ca",
+        "phone": "604-888-8888",
+        "website_url": "https://www.milani.ca/"
+      },
+      "error": ""
+    },
+    {
+      "input": "https://www.reidbrothers.ca/",
+      "output": {
+        "city": "Vancouver",
+        "email": "info@reidbrothers.ca",
+        "phone": "(604) 263-0323",
+        "website_url": "https://www.reidbrothers.ca/"
+      },
+      "error": ""
+    },
+    {
+      "input": "https://progas.ca/",
+      "output": {
+        "city": "North Vancouver",
+        "email": "service@progas.ca",
+        "phone": "604-925-1341",
+        "website_url": "https://progas.ca/"
+      },
+      "error": ""
+    },
+    {
+      "input": "https://greentechhvac.ca/",
+      "output": {
+        "city": "Vancouver",
+        "email": "N/A",
+        "phone": "604-493-2033",
+        "website_url": "https://www.greentechhvacsystems.com/"
+      },
+      "error": ""
+    },
+    {
+      "input": "https://www.rbplumbing.ca/",
+      "output": {
+        "city": "North Vancouver",
+        "email": "sales@rbph.ca",
+        "phone": "604-980-1369",
+        "website_url": "https://randbplumbing.ca/"
+      },
+      "error": ""
+    },
+    {
+      "input": "https://novaheating.ca/",
+      "output": {
+        "city": "North Vancouver",
+        "email": "novaheating@telus.net",
+        "phone": "604-988-3922",
+        "website_url": "https://novaheating.ca/"
+      },
+      "error": ""
+    },
+    {
+      "input": "https://www.budgetheating.ca/",
+      "output": {
+        "city": "North Vancouver",
+        "email": "info@budgetheating.ca",
+        "phone": "604-343-1985",
+        "website_url": "https://www.budgetheating.ca/"
+      },
+      "error": ""
+    },
+    {
+      "input": "https://aquatechheating.ca/",
+      "output": {
+        "city": "Burnaby",
+        "email": "info@aquatechvancouver.ca",
+        "phone": "604-238-5075",
+        "website_url": "https://aquatechmechanical.ca/"
+      },
+      "error": ""
+    },
+    {
+      "input": "https://www.mannixheating.ca/",
+      "output": {
+        "city": "North Vancouver",
+        "email": "support@mannixheating.com",
+        "phone": "604-980-6424",
+        "website_url": "https://mannixheating.com/"
+      },
+      "error": ""
+    },
+    {
+      "input": "https://www.directbuyfurnace.ca/",
+      "output": {
+        "city": "Port Coquitlam",
+        "email": "info@directbuyfurnace.ca",
+        "phone": "604-767-7993",
+        "website_url": "https://www.directbuyfurnace.ca/"
+      },
+      "error": ""
+    },
+    {
+      "input": "https://primetechheating.com/",
+      "output": {
+        "city": "Vancouver",
+        "email": "N/A",
+        "phone": "604-255-4771",
+        "website_url": "https://www.primetechfurnace.ca/"
+      },
+      "error": ""
+    },
+    {
+      "input": "https://mooreandrussell.ca/",
+      "output": {
+        "city": "Port Coquitlam",
+        "email": "N/A",
+        "phone": "604-335-2019",
+        "website_url": "https://www.mrheating.com/"
+      },
+      "error": ""
+    },
+    {
+      "input": "https://royalprohvac.ca/",
+      "output": {
+        "city": "Vancouver",
+        "email": "royalproheating@gmail.com",
+        "phone": "604-436-1255",
+        "website_url": "https://royal-heating.com/"
+      },
+      "error": ""
+    },
+    {
+      "input": "https://www.sheehanplumbing.ca/",
+      "output": {
+        "city": "Port Coquitlam",
+        "email": "info@sheehanplumbing.ca",
+        "phone": "604-931-3921",
+        "website_url": "https://www.sheehanplumbing.ca/"
+      },
+      "error": ""
+    },
+    {
+      "input": "https://www.heatexfurnace.ca/",
+      "output": {
+        "city": "Port Coquitlam",
+        "email": "heatexfurnace@gmail.com",
+        "phone": "604-568-0077",
+        "website_url": "https://heatexfurnace.com/"
+      },
+      "error": ""
+    },
+    {
+      "input": "https://bcrcheating.com/",
+      "output": {
+        "city": "Vancouver",
+        "email": "bcrc.p.h@gmail.com",
+        "phone": "604-781-7272",
+        "website_url": "https://bcrcheating.com/"
+      },
+      "error": ""
+    },
+    {
+      "input": "https://www.goldenlotussprinklers.com/",
+      "output": {
+        "city": "Surrey",
+        "email": "goldenlotussprinklers@gmail.com",
+        "phone": "604-838-4141",
+        "website_url": "https://www.goldenlotussprinklers.com/"
+      },
+      "error": ""
+    },
+    {
+      "input": "https://www.robertsirrigationservice.com/",
+      "output": {
+        "city": "South Surrey",
+        "email": "robert@robertsirrigationservice.com",
+        "phone": "236-866-3710",
+        "website_url": "https://www.robertsirrigationservice.com/"
+      },
+      "error": ""
+    },
+    {
+      "input": "https://www.kore.ca/",
+      "output": {
+        "city": "Surrey",
+        "email": "N/A",
+        "phone": "604-536-2025",
+        "website_url": "https://www.kore.ca/"
+      },
+      "error": ""
+    },
+    {
+      "input": "https://selectsprinklers.ca/",
+      "output": {
+        "city": "Port Coquitlam",
+        "email": "N/A",
+        "phone": "604-828-7723",
+        "website_url": "https://selectsprinklers.ca/"
+      },
+      "error": ""
+    },
+    {
+      "input": "https://www.bluebirdsprinkler.ca/",
+      "output": {
+        "city": "Surrey",
+        "email": "sprinklersbluebird@gmail.com",
+        "phone": "604-368-0009",
+        "website_url": "https://www.bluebirdsprinkler.ca/"
+      },
+      "error": ""
+    },
+    {
+      "input": "https://www.newleafirrigation.com/",
+      "output": {
+        "city": "Vancouver",
+        "email": "N/A",
+        "phone": "604-719-1819",
+        "website_url": "https://www.newleafirrigation.com/"
+      },
+      "error": ""
+    },
+    {
+      "input": "https://www.westcoastsprinklers.com/",
+      "output": {
+        "city": "Metro-Vancouver",
+        "email": "contact@westcoastsprinklers.com",
+        "phone": "604-559-3704",
+        "website_url": "https://www.westcoastsprinklers.com/"
+      },
+      "error": ""
+    },
+    {
+      "input": "https://prosourcesupply.ca/",
+      "output": {
+        "city": "N/A",
+        "email": "info@prosourcesupply.ca",
+        "phone": "1-877-266-2849",
+        "website_url": "https://prosourcesupply.ca/"
+      },
+      "error": ""
+    }
+  ]
+}
