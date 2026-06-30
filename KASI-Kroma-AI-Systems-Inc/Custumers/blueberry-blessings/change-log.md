@@ -24,7 +24,12 @@ Registro de Control de Cambios y Mutaciones Documentales de la Cuenta.
 ### Agregado
 - Carpeta `Videos/` conteniendo los entregables de video promocionales de la granja (`cierre.mp4`, `intro.mp4`, `medio.mp4`, `movie-farm.mp4`) y la subcarpeta `fotos/` conteniendo `foto-granja-1.jpg` y `foto-granja-2.jpg`.
 - Registro de envío del SMS de reactivación/control a Bobby a las 8:49 AM ofreciendo apoyo operativo en el campo.
-- Archivo `Conversaciones/conversacion-sms-29-junio.txt` conteniendo el intercambio de SMS del 29 de junio: Bobby respondió a las 11:35 AM solicitando una llamada rápida para hoy. Luis confirmó disponibilidad. **ALERTA: La cuenta pasa de FRÍA a TIBIA. Bobby mostró interés activo.**
+- Archivo `Conversaciones/conversacion-sms-29-junio.txt` conteniendo el intercambio de SMS del 29 de junio: Bobby respondió a las 11:35 AM solicitando una llamada rápida para hoy. Luis confirmó disponibilidad. A las 12:41 PM Bobby confirmó que llamará entre pausas de trabajo.
+- Archivo `Conversaciones/audio-llamada-bobby-29-junio.mp4` — grabación de la llamada telefónica con Bobby a las 6:21 PM (~5 minutos).
+- Archivo `Conversaciones/transcripcion-audio-bobby-29-junio.txt` — transcripción completa vía Whisper AI de la llamada.
+- Archivo `Documentos/guia-llamada-bobby-29-junio.md` — guía de preparación Sandler (qué decir / qué evitar).
+- Archivo `Documentos/minuta-llamada-bobby-29-junio.md` — minuta y análisis estratégico completo de la llamada.
+- **🔴 PIVOTE DE CUENTA:** Bobby NO ofreció trabajo de campo. Reveló que está construyendo un equipo de marketing digital. Preguntó por experiencia en Wix y diseño web. Propuso un Zoom para revisar Facebook + sitio web + proyecto comunitario. Modelo de compensación: COMISIÓN sobre ventas generadas. **La cuenta pasa de FRÍA ❄️ a CALIENTE 🔥🔥 y se reclasifica como CLIENTE POTENCIAL DE KASI (no como empleador).**
 
 ### Modificado
 - Reestructuración organizativa de la carpeta del cliente para cumplir con el estándar corporativo:
