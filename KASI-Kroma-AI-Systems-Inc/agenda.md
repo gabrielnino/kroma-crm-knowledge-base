@@ -5,9 +5,8 @@ Registro de eventos, llamadas, recordatorios y plazos de descalificación de cue
 
 ## EVENTOS PROGRAMADOS
 
-### Lunes 29 de Junio de 2026 (Hoy)
-*   **José Augusto Marín (CBN Noticias):** Enviar mensaje de WhatsApp para agendar la sesión de presentación de la propuesta de alianza y el mockup interactivo de diapositivas (Nota: La llamada de diagnóstico y trabajo base de la propuesta se realizaron ayer domingo 28 de junio). Proponer reunión para el martes 30 de junio por la tarde o miércoles 1 de julio por la mañana.
-    *   *Mensaje:* `"Hola José, un saludo. Basado en el diagnóstico que realizamos ayer sobre los bloqueos de indexación de WordPress y la restricción de Meta, ya he estructurado la propuesta económica de setup y el esquema de garantías (donde protegemos al 100% tu marca y te aseguramos el retorno preferencial de tu inversión). Diseñé una presentación visual rápida de 10 diapositivas para mostrarte cómo se vería el nuevo portal y el plan de tráfico al Mes 12. ¿Tendrás 30 minutos libres este martes por la tarde o miércoles por la mañana para que te la proyecte de forma virtual? Un abrazo."`
+### Lunes 29 de Junio de 2026
+*   **José Augusto Marín (CBN Noticias):** ✅ Mensaje de WhatsApp enviado a las 12:36 PM. José respondió a las 6:39 PM: *"Me parece bien el miércoles en la mañana."* Luis propuso las 9:00 AM. **Esperando confirmación de hora exacta.**
 
 ### Miércoles 1 de Julio de 2026
 *   **Carlos IT:** Enviar mensaje de seguimiento por WhatsApp (10:00 AM).
@@ -15,9 +14,10 @@ Registro de eventos, llamadas, recordatorios y plazos de descalificación de cue
 *   **Blueberry Blessings (Bobby):** 🔥🔥 **LLAMADA COMPLETADA A LAS 6:21 PM.** Bobby reveló que está construyendo un equipo de marketing y quiere integrar a Luis en el lado técnico (web, backend, automatización). Propuso un **Zoom** para revisar Facebook + sitio Wix + proyecto comunitario. Modelo: COMISIÓN sobre ventas. **CUENTA RECLASIFICADA: De empleador de campo → CLIENTE POTENCIAL DE KASI.**
 
 ### Martes 30 de Junio de 2026
-*   **José Augusto Marín (CBN):** Esperar respuesta al WhatsApp enviado ayer (12:36 PM) proponiendo reunión virtual para la presentación.
+*   **José Augusto Marín (CBN):** Si no confirma hora exacta (9 AM), enviar mensaje de recordatorio: *"Perfecto José, ¿nos vemos entonces mañana miércoles a las 9 AM por Zoom? Te envío el enlace."*
 
 ### Miércoles 1 de Julio de 2026
+*   **🔴 José Augusto Marín (CBN Noticias) — REUNIÓN 9:00 AM (pendiente confirmación de hora).** Presentación virtual de 10 diapositivas: propuesta de alianza, mockup del portal, plan de tráfico al Mes 12 y esquema de garantías.
 *   **Carlos IT:** Enviar mensaje de seguimiento por WhatsApp (10:00 AM).
     *   *Mensaje:* `"Hola Carlos, espero que estés teniendo una buena semana. Escribo para ver si pudiste cerrar ese 20% restante del recorrido de usuario. Si te parece bien, coordinamos una llamada rápida de 20 minutos este [Miércoles/Jueves] por la tarde para validar el flujo completo y acordar el alcance del primer bloque del mockup navegable. Cuéntame qué horario te queda mejor."`
 

@@ -49,3 +49,7 @@ Registro de Control de Cambios y Mutaciones Documentales de la Cuenta.
 - Eliminación de los borradores anteriores `diapositivas-presentacion-alianza.md` y `propuesta-ejecutiva-alianza.md` en la carpeta `Propuestas/Alianza-Estrategica-70-30/`.
 - Modificación del comportamiento de scroll en `Propuestas/Alianza-Estrategica-70-30/index.html` para incorporar soporte de scroll instantáneo e interceptación de eventos (`wheel` y `keydown` para flechas y barra espaciadora) mediante JavaScript, forzando la transición instantánea y limpia de una diapositiva a la vez en lugar del desplazamiento lento tradicional.
 - Registro en la agenda global `agenda.md` del recordatorio de seguimiento y guion de contacto vía WhatsApp para el 29 de junio de 2026.
+
+## [2026-06-29]
+### Agregado
+- Archivo `Conversaciones/conversacion-whatsapp-29-junio.txt` conteniendo el intercambio de WhatsApp del 29 de junio: Luis envió la propuesta de reunión virtual a las 12:36 PM. José respondió a las 6:39 PM aceptando el **miércoles por la mañana**. Luis propuso las **9:00 AM**. **ALERTA: La cuenta pasa de FRÍA ❄️ a TIBIA 🟠. José confirmó interés en ver la presentación de 10 diapositivas y la propuesta económica.**
