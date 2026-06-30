@@ -67,28 +67,52 @@ Bobby tiene **3 dolores** que KASI puede resolver directamente:
 | **Marketing sin estrategia digital** | Funnel de Google Maps + Instagram + Facebook Ads para venta directa de arándanos | $1,500 - $3,000 CAD (setup) |
 | **Proyecto comunitario sin visibilidad** | Página web del proyecto + formularios de voluntariado + email marketing | $1,000 - $2,000 CAD |
 
-**Ticket Total Potencial: $5,000 - $9,000 CAD (setup) + comisión recurrente sobre ventas generadas.**
+**Ticket Total Potencial: Comisión sobre ventas generadas (sin setup fee).**
 
 ### ⚠️ RIESGOS
 
 | Riesgo | Mitigación |
 |:---|:---|
-| Bobby puede querer que Luis trabaje gratis "a prueba" | En el Zoom, presentar un **alcance definido con entregables y precio claro**. Metodología Sandler: *"I'm happy to show you what I can do, but I want to make sure we're on the same page about scope and investment."* |
-| El modelo de comisión puede no generar ingresos inmediatos | Negociar un **setup fee mínimo** ($1,500) más comisión. Así KASI cobra por el trabajo técnico y además gana por resultados. |
-| Bobby puede diluir el alcance con "proyectos comunitarios" vagos | En el Zoom, mantener el foco en **1 entregable concreto primero** (la web o el funnel de Facebook) antes de expandir. |
+| Bobby no paga setup fee — solo comisión sobre ventas | **ACEPTADO.** La decisión estratégica es trabajar por comisión como inversión en portafolio local y recomendación. |
+| El modelo de comisión puede no generar ingresos inmediatos | La comisión no es el objetivo principal. El objetivo es el **caso de estudio real en BC** para venderle a los contratistas del Top 10. |
+| Bobby puede diluir el alcance con "proyectos comunitarios" vagos | Mantener el foco en **1 entregable concreto primero** (la web) antes de expandir. |
+| El inglés de Luis no es suficiente para contenido de marketing | **Bobby ya lo sabe y lo aceptó.** Luis se enfoca exclusivamente en backend, desarrollo web y automatización. El contenido en inglés lo hace el equipo de Bobby. |
 
 ---
 
-## 4. PREPARACIÓN PARA EL ZOOM
+## 4. DECISIÓN ESTRATÉGICA: ACEPTAR MODELO DE COMISIÓN
+
+**Fecha de la decisión:** 29 de Junio de 2026  
+**Decisor:** Luis Gabriel Niño (CEO, KASI)
+
+### Racionalidad
+
+Bobby no pagará un setup fee. Solo ofrece porcentaje sobre ventas generadas. Tras evaluar los números (50-65 horas de trabajo vs. comisión estimada de $450-$2,250 en el mejor caso), se **acepta la propuesta** por las siguientes razones estratégicas:
+
+1. **Portafolio Local en BC:** KASI no tiene actualmente ningún sitio web de cliente local en producción para mostrar a prospectos. El sitio de Blueberry Blessings se convierte en el primer caso de estudio real con métricas (tráfico, pedidos, posición en Maps).
+
+2. **Recomendación Local:** Una reseña o testimonio de Bobby como dueño de negocio en BC (*"Luis built our website and our online sales went up X%"*) tiene más peso que cualquier portafolio técnico cuando se prospecta a contratistas locales de plomería/HVAC.
+
+3. **Costo de Oportunidad Actual = Cero:** No hay otro deal en ejecución que compita por estas horas. Es mejor invertirlas en algo productivo que en espera.
+
+4. **Exit Strategy:** Si se cierra un deal con Carlos IT, José Marín o un contratista del Top 10 con pago real, Bobby pasa a segunda prioridad sin conflicto.
+
+### Regla Operativa
+
+> **Bobby es el trampolín, no el destino.** El verdadero objetivo es usar este caso de éxito para cerrar a los contratistas de $2,500 - $5,000 CAD de setup fee.
+
+---
+
+## 5. PREPARACIÓN PARA EL ZOOM
 
 ### Agenda Propuesta (30 min)
 1. **(5 min)** Bobby muestra la página de Facebook y el sitio Wix actual.
 2. **(10 min)** Luis comparte pantalla: auditoría rápida de velocidad móvil del sitio Wix (PageSpeed) + análisis de la competencia en Google Maps.
-3. **(10 min)** Luis presenta la propuesta: "Puedo hacer X, Y, Z por $[precio] + [%] de comisión sobre pedidos generados desde el sitio web."
-4. **(5 min)** Acordar siguiente paso concreto (primer entregable + timeline).
+3. **(10 min)** Definir el primer entregable concreto: ¿qué se construye primero? (Sitio web, funnel de Facebook, o Google Business Profile).
+4. **(5 min)** Acordar timeline, accesos necesarios y % de comisión.
 
 ### Materiales a Preparar
 - [ ] Resultado de PageSpeed Insights del sitio actual de Blueberry Blessings (Wix).
 - [ ] Mockup rápido de cómo se vería una landing page moderna para venta de arándanos.
 - [ ] Análisis de la competencia: ¿qué están haciendo otras granjas de arándanos en BC en Instagram/Facebook?
-- [ ] Propuesta de precio clara (1 página) con setup fee + modelo de comisión.
+- [ ] Definir el % de comisión mínimo aceptable (recomendado: 15-20% sobre ventas online generadas desde el sitio).
